@@ -1,0 +1,21 @@
+record_id,redcap_event_name,partstatus,phq9_q9_only,columbia_complete,columbia_risk_score,columbia_risk
+F322AUD,week_6,active,1.0,2.0,Low Risk,Low
+M237AUD,week_8,withdrawn/excluded,2.0,2.0,No Risk,None
+M255AUD,week_4,complete,1.0,2.0,Low Risk,Low
+M255AUD,week_6,complete,1.0,2.0,Low Risk,Low
+M269AUD,week_2,complete,1.0,2.0,No Risk,None
+M287AUD,week_4,withdrawn/excluded,1.0,2.0,No Risk,None
+M294AUD,week_2,complete,1.0,2.0,No Risk,None
+M294AUD,week_4,complete,2.0,2.0,High Risk,High
+M297AUD,week_2,withdrawn/excluded,1.0,2.0,No Risk,None
+M297AUD,week_4,withdrawn/excluded,1.0,2.0,No Risk,None
+F223AUD,week_8,complete,1.0,2.0,No Risk,None
+F223AUD,week_10,complete,1.0,2.0,Low Risk,Low
+F258AUD,week_10,withdrawn/excluded,1.0,2.0,No Risk,None
+F316AUD,week_4,active,1.0,2.0,Low Risk,Low
+F317AUD,week_2,active,1.0,2.0,Low Risk,Low
+F317AUD,week_4,active,1.0,2.0,Low Risk,Low
+F317AUD,week_6,active,3.0,2.0,Moderate Risk,Moderate
+M250AUD,week_8,withdrawn/excluded,2.0,2.0,No Risk,None
+M252AUD,week_10,complete,1.0,2.0,No Risk,None
+M290AUD,week_2,withdrawn/excluded,1.0,2.0,No Risk,None
