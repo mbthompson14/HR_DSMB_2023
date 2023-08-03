@@ -1,5 +1,6 @@
 record_id,redcap_event_name,partstatus,phq9_q9_only,wished_dead,actual_thoughts,thinking_about_plan,thoughts_plus_intention,details_and_intent_of_plan,prior_self_harm_lifetime,csrs_q7,columbia_complete,columbia_risk_score,columbia_risk
 F322AUD,week_6,active,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
+F322AUD,week_12,active,1.0,yes,no,NA,NA,NA,no,0.0,2.0,Low Risk,Low
 M255AUD,week_4,complete,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
 M255AUD,week_6,complete,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
 M269AUD,week_2,complete,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
@@ -15,6 +16,10 @@ F316AUD,week_4,active,1.0,yes,no,NA,NA,NA,no,0.0,2.0,Low Risk,Low
 F317AUD,week_2,active,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
 F317AUD,week_4,active,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
 F317AUD,week_6,active,3.0,yes,yes,yes,no,no,no,1.0,2.0,Moderate Risk,Moderate
+F317AUD,week_8,active,2.0,yes,yes,no,no,no,no,1.0,2.0,Low Risk,Low
+F317AUD,week_10,active,2.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
+F317AUD,week_12,active,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
 M250AUD,week_8,withdrawn/excluded,2.0,no,no,NA,NA,NA,no,1.0,2.0,No Risk,None
 M252AUD,week_10,complete,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
 M290AUD,week_2,withdrawn/excluded,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
+M318AUD,week_8,active,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
