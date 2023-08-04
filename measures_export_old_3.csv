@@ -1,0 +1,1213 @@
+﻿record_id,redcap_event_name,partstatus,mini_suicide_sum,mini_suicide_dx,mini_suicide_dx_2,suicide_notes,suicide_protective,phq9_q9_only,phq9_question_9_only_complete,csrs_q1,csrs_q2,csrs_q3,csrs_q4,csrs_q5,csrs_q6,csrs_q7,csrc_total,columbia_risk_score,columbia_suicide_questionnaire_complete,gad_feel_nervous,gad_stop_worry,gad_worry_too_much,gad_relaxing,gad_restless,gad_irritable,gad_afraid,gad_difficult,gad_total_score,gad7_complete,difficulty_falling_asleep,difficulty_staying_asleep,problem_waking_up_early,how_satisfied_dissatisfied,how_noticeable,how_worried,current_interference,isi_total_score,isi_complete,new_current,baseline_date,last_completed,stop_asi,current_or_new_patients_02062023_onwards_complete,phq8_1,phq8_2,phq8_3,phq8_4,phq8_5,phq8_6,phq8_7,phq8_8,phq8_total_score,patient_health_questionnaire_complete
+CF017AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF017AUD,baseline_arm_3,,0,0,1,,,,,,,,,,,,,,,2,2,2,2,2,1,0,1,11,2,2,2,3,3,2,3,3,18,2,,,,,,1,0,3,1,2,0,2,3,12,2
+CF017AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,2,1,3,2,0,2,11,2,2,2,2,4,3,2,3,18,2,,,,,,,,,,,,,,,
+CF017AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,2,1,2,2,1,1,11,2,1,3,1,3,2,2,2,14,2,,,,,,,,,,,,,,,0
+CF017AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,2,2,2,2,2,1,1,12,2,1,2,2,3,3,2,3,16,2,,,,,,,,,,,,,,,0
+CF017AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,2,2,2,2,1,0,1,10,2,1,1,0,2,1,1,1,7,2,,,,,,,,,,,,,,,0
+CF021AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF021AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,1,1,1,1,1,0,7,2,1,2,2,3,1,1,1,11,2,,,,,,0,0,1,1,0,0,0,0,2,2
+CF021AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,1,0,2,1,7,2,1,2,1,2,0,2,1,9,2,,,,,,,,,,,,,,,
+CF021AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,1,1,1,2,1,11,2,0,2,2,3,1,1,1,10,2,,,,,,,,,,,,,,,0
+CF021AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,2,1,0,1,2,1,9,2,1,2,2,3,0,1,1,10,2,,,,,,,,,,,,,,,0
+CF021AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,0,1,0,5,2,0,1,1,2,1,1,1,7,2,,,,,,,,,,,,,,,0
+CF026AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF026AUD,baseline_arm_3,,10,1,2,"Brief thought of suicide once this month (in passing). She did not feel any worries about following through. Reported having a solid support system. She said that several years ago tried to drink herself to death. I sent her a copy of the mental health resources during the visit, which she was very excited to have. Emailed Dr. Kendrick to verify that no further follow-up is needed.     He responded and said no further follow up is necessary. -LCE 12/3/21",,,,,,,,,,,,,,1,1,1,3,0,1,1,2,8,2,1,4,4,4,4,4,4,25,2,,,,,,1,1,3,3,3,3,3,2,19,2
+CF037AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF037AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,0,1,0,1,0,0,4,2,2,1,1,2,1,1,2,10,2,,,,,,1,0,2,3,1,0,1,0,8,2
+CF037AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,0,1,1,1,0,1,4,2,2,3,1,3,1,2,1,13,2,,,,,,,,,,,,,,,
+CF037AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,1,0,1,1,1,5,2,2,2,0,3,2,3,3,15,2,,,,,,,,,,,,,,,0
+CF037AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,1,1,1,0,1,5,2,1,2,0,3,3,2,2,13,2,,,,,,,,,,,,,,,0
+CF037AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,1,0,0,0,0,3,2,1,2,0,3,1,1,1,9,2,,,,,,,,,,,,,,,0
+CF041AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF041AUD,baseline_arm_3,,22,1,3,"Her only suicide attempt happened last week. She reported that she generally doesn't feel suicidal, but spurr of the moment decided to take too much of her medication. Once she felt the effects, she fell over. It freaked her out, so she called a friend, who then got her to the hospital. This happened last Thursday, and she reported that she was discharged yesterday (12/6/21) from the hospital. She has a follow up visit with a psychiatrist this week, and therapy starting later this month. She was also put on Lexipro and has another ""emergency"" medication for acute symptoms. She reported vaping to reduce her anxiety today because that latter medication made her feel very out of it.     I sent over the mental health resource page as soon as we talked during the depression section of the MINI. She was appreciative of those. I also discussed the option of having Jeremy reach out to her and checking in. For now, she feels fine without him reaching out because she has several psychiatrist appointments set up. She said she will reach out to us if she would like to talk to him. She repeated several times that this suicide attempt really surprised her. She had no previous intent or plan, but in a moment of feeling overwhelmed, she took too much of her medication with the intent to die. That feeling was very quickly gone, and so she called for help and was able to get to the hospital.     After talking with her, my impression is that she now has an abundance of resources to keep her safe. She also does not feel like she is in any current danger. I called Dr. Kendrick's office, but he was not in, so I will email him with this information and see if additional follow up is necessary. I will also contact Dr. Love and confirm whether she should be included in the study. -LCE 12/7/21    Dr. Kendrick confirmed that no further follow up is needed. -LCE 12/8/21",,,,,,,,,,,,,,3,2,2,1,2,1,1,1,12,2,4,2,2,4,3,3,2,20,2,,,,,,1,0,3,3,1,0,2,0,10,2
+CF041AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,7,2,4,2,0,4,2,3,3,18,2,,,,,,,,,,,,,,,
+CF041AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,3,2,2,2,2,2,15,2,2,2,1,3,2,3,3,16,2,,,,,,,,,,,,,,,0
+CF041AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,2,1,1,8,2,2,0,2,2,0,2,2,10,2,,,,,,,,,,,,,,,0
+CF041AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,2,1,1,7,2,1,2,2,2,1,1,2,11,2,,,,,,,,,,,,,,,0
+CF048AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF048AUD,baseline_arm_3,,1,0,1,"Felt hopeless less than half the days ",,,,,,,,,,,,,,1,1,0,1,1,1,0,1,5,2,3,3,1,4,2,3,3,19,2,,,,,,1,1,3,2,0,0,1,0,8,2
+CF048AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,2,2,1,1,1,2,2,10,2,3,2,0,2,2,2,3,14,2,,,,,,,,,,,,,,,
+CF048AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,2,2,2,1,1,1,3,12,2,3,2,1,4,4,2,4,20,2,,,,,,,,,,,,,,,0
+CF048AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,3,2,1,1,1,0,2,9,2,2,2,1,4,3,3,4,19,2,,,,,,,,,,,,,,,0
+CF048AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,1,1,2,0,1,10,2,2,1,0,3,2,3,3,14,2,,,,,,,,,,,,,,,0
+CF068AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF068AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,2,1,1,1,2,1,0,1,8,2,3,4,2,4,2,3,3,21,2,,,,,,3,2,3,2,3,3,2,3,21,2
+CF068AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,0,1,6,2,0,3,3,3,1,2,1,13,2,,,,,,,,,,,,,,,
+CF068AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,0,6,2,0,2,3,3,1,1,1,11,2,,,,,,,,,,,,,,,0
+CF068AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,1,6,2,0,2,2,2,1,1,1,9,2,,,,,,,,,,,,,,,0
+CF068AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,1,0,0,1,1,2,0,1,1,2,0,1,1,6,2,,,,,,,,,,,,,,,0
+CF089AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF089AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,1,1,0,1,0,0,4,2,1,2,1,3,0,1,1,9,2,,,,,,0,0,1,1,0,0,0,0,2,2
+CF089AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,2,1,0,1,7,2,0,1,2,2,0,1,1,7,2,,,,,,,,,,,,,,,
+CF089AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,3,2,0,1,13,2,2,2,1,4,1,2,2,14,2,,,,,,,,,,,,,,,0
+CF089AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,3,3,3,2,1,3,3,17,2,2,3,2,3,0,3,2,15,2,,,,,,,,,,,,,,,0
+CF089AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,3,3,1,3,2,2,14,2,2,1,1,3,1,2,3,13,2,,,,,,,,,,,,,,,0
+CF102AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF102AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,0,1,1,1,0,1,4,2,2,2,2,3,2,3,3,17,2,,,,,,1,1,2,1,2,1,1,0,9,2
+CF102AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,3,2,2,1,1,11,2,2,2,2,3,4,1,2,16,2,,,,,,,,,,,,,,,
+CF102AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,1,6,2,2,2,0,3,2,2,3,14,2,,,,,,,,,,,,,,,0
+CF102AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,1,3,3,1,2,1,1,14,2,1,2,2,3,2,1,1,12,2,,,,,,,,,,,,,,,0
+CF102AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+CF122AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF122AUD,baseline_arm_3,,5,1,1,"Pt denied active thoughts/intents/plans.  Pt is ok for staff to send resources.  Pt asserts she has a support team.",,,,,,,,,,,,,,3,3,3,3,2,2,3,3,19,2,3,3,3,3,3,3,4,22,2,,,,,,3,2,2,2,2,2,2,2,17,2
+CF122AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,0,0,1,0,0,4,2,1,1,0,0,1,1,1,5,2,,,,,,,,,,,,,,,
+CF122AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,0,0,1,1,0,5,2,1,1,0,1,0,0,0,3,2,,,,,,,,,,,,,,,0
+CF122AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,2,1,0,7,2,0,1,0,1,0,0,1,3,2,,,,,,,,,,,,,,,0
+CF122AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,1,1,7,2,1,1,1,1,1,1,2,8,2,,,,,,,,,,,,,,,0
+CF126AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF126AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,0,0,0,1,0,1,0,0,2,2,1,4,2,4,2,3,3,19,2,,,,,,0,0,3,3,1,0,1,0,8,2
+CF126AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,1,0,1,0,0,2,2,0,2,1,4,2,2,3,14,2,,,,,,,,,,,,,,,
+CF126AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,1,0,1,0,0,2,2,0,2,0,3,1,2,2,10,2,,,,,,,,,,,,,,,0
+CF126AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,1,1,1,0,1,4,2,0,3,0,4,2,2,3,14,2,,,,,,,,,,,,,,,0
+CF126AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,0,1,0,3,2,1,2,9,2,,,,,,,,,,,,,,,0
+CF129AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF129AUD,baseline_arm_3,,1,1,1,"Pt asserted she felt safe and had a good support system in place.",,,,,,,,,,,,,,1,1,1,1,0,0,1,2,5,2,3,3,3,4,4,4,4,25,2,,,,,,1,1,1,1,1,1,1,1,8,2
+CF129AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,7,2,1,3,1,4,3,3,3,18,2,,,,,,,,,,,,,,,
+CF129AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,0,1,1,6,2,1,1,1,3,2,2,2,12,2,,,,,,,,,,,,,,,0
+CF129AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,1,1,7,2,1,2,2,3,3,3,1,15,2,,,,,,,,,,,,,,,0
+CF129AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,1,1,7,2,1,1,3,3,2,2,2,14,2,,,,,,,,,,,,,,,0
+CF131AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF131AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,1,1,1,2,0,0,1,6,2,,,,,,0,0,1,0,0,0,0,0,1,2
+CF131AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,1,2,1,1,1,2,1,1,1,8,2,,,,,,,,,,,,,,,
+CF131AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,0,0,0,1,0,2,2,1,1,2,1,0,1,1,7,2,,,,,,,,,,,,,,,0
+CF131AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,0,0,0,0,0,1,2,1,1,1,2,0,1,1,7,2,,,,,,,,,,,,,,,0
+CF131AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,1,0,0,1,2,1,1,1,2,0,1,1,7,2,,,,,,,,,,,,,,,0
+CF136AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF136AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,1,1,1,0,0,1,1,1,5,2,2,1,2,3,1,1,2,12,2,,,,,,0,1,1,1,1,1,0,0,5,2
+CF136AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,1,1,0,1,0,1,6,2,0,2,2,2,0,0,2,8,2,,,,,,,,,,,,,,,
+CF136AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,1,1,1,6,2,0,1,1,2,0,1,1,6,2,,,,,,,,,,,,,,,0
+CF136AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,1,1,1,6,2,1,1,1,2,1,1,1,8,2,,,,,,,,,,,,,,,0
+CF136AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,1,1,1,6,2,1,1,1,2,1,1,1,8,2,,,,,,,,,,,,,,,0
+CF156AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF156AUD,baseline_arm_3,,6,1,1,"Pt reported feeling hopeless in the last month and thinking she would be better off dead ""a few times"" in the past month. She reported she injured herself on purpose through taking  extra anxiety medication. She reported ""I wanted everything to stop"". When she took this medication she reported she did not want to die, and this was not a suicide attempt. She reported not remembering the name or amount of medication. She reported she ""would never kill (herself)"" but has had passive SI in the past when she ""wonders"" about falling asleep and not waking up. Pt reported she is currently safe and does not have any suicide ideation, plan, or intent.  ",,,,,,,,,,,,,,3,3,3,3,3,3,2,3,20,2,4,4,4,4,4,4,4,28,2,,,,,,3,3,3,3,3,3,3,3,24,2
+CF156AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,3,3,3,3,2,2,2,3,18,2,3,3,3,4,4,4,4,25,2,,,,,,,,,,,,,,,
+CF156AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,3,2,3,2,2,1,2,16,2,2,3,2,2,4,3,4,20,2,,,,,,,,,,,,,,,0
+CF156AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,3,3,2,1,1,15,2,3,2,2,3,3,3,3,19,2,,,,,,,,,,,,,,,0
+CF156AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,3,3,3,3,3,1,2,18,2,2,2,2,3,4,3,4,20,2,,,,,,,,,,,,,,,0
+CF162AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF162AUD,baseline_arm_3,,1,1,1,"Pt reported that she felt safe.",,,,,,,,,,,,,,1,2,2,1,2,1,1,1,10,2,3,3,2,3,2,4,3,20,2,,,,,,2,3,1,1,1,1,1,1,11,2
+CF162AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,2,0,0,0,1,5,2,2,2,3,3,2,2,1,15,2,,,,,,,,,,,,,,,
+CF162AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,1,0,0,0,0,1,2,1,1,1,1,0,1,0,5,2,,,,,,,,,,,,,,,0
+CF162AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,0,0,0,0,0,1,2,0,1,1,1,0,0,0,3,2,,,,,,,,,,,,,,,0
+CF162AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,1,0,0,1,2,0,0,1,0,0,0,0,1,2,,,,,,,,,,,,,,,0
+CF198AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF198AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,7,2,2,3,1,3,1,2,1,13,2,,,,,,0,0,0,0,1,0,0,0,1,2
+CF198AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,7,2,2,3,1,4,1,1,2,14,2,,,,,,,,,,,,,,,
+CF198AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,1,1,7,2,0,3,1,3,1,2,1,11,2,,,,,,,,,,,,,,,0
+CF198AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,1,1,7,2,0,1,2,1,0,0,0,4,2,,,,,,,,,,,,,,,0
+CF198AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,1,6,2,0,1,0,1,0,0,0,2,2,,,,,,,,,,,,,,,0
+CF204AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CF204AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,1,1,1,1,1,1,0,1,6,2,3,1,1,4,2,3,3,17,2,,,,,,0,0,3,2,2,1,1,0,9,2
+CF204AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,1,1,0,0,0,2,2,2,0,0,3,2,2,2,11,2,,,,,,,,,,,,,,,
+CF204AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,1,0,0,2,1,1,1,6,2,,,,,,,,,,,,,,,0
+CF204AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,1,1,1,2,1,1,1,8,2,,,,,,,,,,,,,,,0
+CF204AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,2,2,,,,,,,,,,,,,,,0
+CF219AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-11-10,4,,2,,,,,,,,,,
+CF219AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,2,2,3,2,1,1,2,13,2,3,3,3,4,2,3,3,21,2,,,,,,0,0,2,3,2,1,2,1,11,2
+CF219AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,1,1,0,2,0,1,5,2,2,2,1,3,0,1,1,10,2,,,,,,,,,,,,,,,
+CF219AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,0,1,1,1,1,1,5,2,2,3,2,2,1,1,1,12,2,,,,,,,,,,,,,,,0
+CF219AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,1,0,0,0,0,1,2,3,2,1,3,1,2,3,15,2,,,,,,,,,,,,,,,0
+CF219AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,3,2,1,0,2,0,8,2
+CF219AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,2,3,1,1,2,1,11,2,3,2,1,3,2,2,3,16,2,,,,,,1,0,3,3,2,1,2,0,12,2
+CF230AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-11,2,,2,,,,,,,,,,
+CF230AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,1,1,0,1,0,0,4,2,1,2,1,3,1,2,2,12,2,,,,,,1,0,1,1,1,0,0,0,4,2
+CF230AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,3,1,1,3,3,3,0,1,14,2,1,1,1,3,2,4,2,14,2,,,,,,,,,,,,,,,
+CF230AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,3,0,0,1,0,6,2
+CF230AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,2,1,1,2,1,3,1,1,11,2,0,1,1,3,1,1,1,8,2,,,,,,0,0,2,2,2,1,1,0,8,2
+CF230AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,2,1,1,1,0,7,2
+CF230AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,1,1,2,0,1,7,2,0,1,1,3,1,1,1,8,2,,,,,,1,1,1,3,1,0,1,0,8,2
+CF230AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2,2,1,1,1,0,9,2
+CF230AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,1,6,2,0,1,1,3,1,1,1,8,2,,,,,,1,1,1,1,1,1,1,0,7,2
+CF231AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-12-22,3,1,2,,,,,,,,,,
+CF231AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,1,1,0,0,0,2,2,3,3,3,4,2,4,3,22,2,,,,,,0,0,3,1,0,0,0,0,4,2
+CF231AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,1,0,0,1,0,1,3,2,2,2,1,2,2,1,2,12,2,,,,,,,,,,,,,,,
+CF231AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,0,0,1,4,2,1,1,1,1,1,2,1,8,2,,,,,,,,,,,,,,,0
+CF231AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,0,1,0,0,0,4,2
+CF231AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,0,1,0,1,0,1,2,2,1,1,1,1,2,1,3,10,2,,,,,,0,0,1,1,1,0,0,0,3,2
+CF231AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,0,0,4,2
+CF241AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-02-03,1,1,2,,,,,,,,,,
+CF241AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,1,1,1,0,0,0,1,3,2,3,3,3,3,3,4,3,22,2,,,,,,1,0,2,2,1,0,1,0,7,2
+CF241AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,2,1,0,1,0,6,2
+CF241AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,0,0,0,0,0,0,2,2,3,3,3,3,2,3,3,20,2,,,,,,,,,,,,,,,
+CF241AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2,2,1,1,0,0,8,2
+CF241AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,1,0,0,0,0,0,1,2,2,1,3,2,2,1,2,13,2,,,,,,2,0,1,1,1,0,0,0,5,2
+CF270AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-10,2,1,2,,,,,,,,,,
+CF270AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,3,3,3,3,3,0,0,3,15,2,4,4,4,4,4,4,4,28,2,,,,,,3,2,3,3,3,2,3,3,22,2
+CF270AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,3,2,3,3,3,3,2,19,2,3,3,4,4,4,4,4,26,2,,,,,,,,,,,,,,,
+CF270AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2,1,1,1,1,1,9,2
+CF270AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,2,2,2,2,2,2,0,2,12,2,2,2,2,3,3,3,3,18,2,,,,,,2,2,2,2,2,2,2,0,14,2
+CF270AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,3,3,2,2,2,2,2,18,2
+CF276AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-22,1,1,2,,,,,,,,,,
+CF276AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,1,2,1,2,1,3,1,2,1,11,2,,,,,,0,0,0,0,0,0,0,0,0,2
+CF276AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2,2,1,1,1,1,10,2
+CF276AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,2,1,1,2,1,1,9,2,2,3,4,3,1,3,2,18,2,,,,,,,,,,,,,,,
+CF276AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2,2,1,1,1,0,9,2
+CF276AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,3,1,2,1,1,10,2,3,2,3,3,1,2,2,16,2,,,,,,2,1,1,1,2,1,1,1,10,2
+CF285AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-25,1,1,2,,,,,,,,,,
+CF285AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,2,4,2,4,3,3,3,21,2,,,,,,0,0,2,0,0,0,0,0,2,2
+CF285AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,0,0,0,0,0,3,2
+CF285AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,1,2,1,2,2,2,1,11,2,,,,,,,,,,,,,,,
+CF285AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2
+CF286AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-29,1,1,2,,,,,,,,,,
+CF286AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,1,2,0,0,0,1,3,2,3,2,3,4,2,4,1,19,2,,,,,,1,0,3,2,1,0,1,0,8,2
+CF286AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,3,2,0,0,1,2,10,2
+CF286AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,1,2,0,1,0,1,4,2,3,2,2,3,0,1,1,12,2,,,,,,,,,,,,,,,
+CF286AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,1,0,0,2,2
+CF295AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-31,1,1,2,,,,,,,,,,
+CF295AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,2,1,2,1,2,2,1,12,2,2,3,1,3,3,3,3,18,2,,,,,,2,3,3,2,3,3,3,2,21,2
+CF295AUD,week_2_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+CF295AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,0,2,1,1,3,1,2,2,1,11,2,,,,,,,,,,,,,,,
+CF295AUD,week_4_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+CF295AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,0,0,0,1,0,0,1,2,0,0,1,0,1,0,0,2,2,,,,,,0,0,0,0,0,0,0,0,0,2
+CF311AUD,participant_status_arm_3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-04-25,1,,2,,,,,,,,,,
+CF311AUD,baseline_arm_3,,2,0,1,"Has been feeling depressed. RA used MI around psychotherapy. She is going to look for a CBT therapist. Resources were provided. She reported she has never thought about or taken any steps toward suicide.","Traveling, family",,,,,,,,,,,,,1,3,3,3,1,1,0,1,12,2,2,3,3,4,2,3,2,19,2,,,,,,2,2,3,3,2,1,2,0,15,2
+CF311AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,3,2,0,1,1,0,9,2
+CF311AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,3,3,2,0,1,0,1,11,2,0,3,2,4,3,2,3,17,2,,,,,,,,,,,,,,,
+CF311AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,2,1,2,2,0,13,2
+CF311AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,2,3,3,3,1,2,0,1,14,2,0,3,2,3,2,3,2,15,2,,,,,,2,2,3,3,1,2,2,0,15,2
+CF311AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,3,0,2,2,0,13,2
+CF311AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,,0,2,2,2,2,0,2,1,1,11,2,2,3,2,3,3,2,2,17,2,,,,,,2,2,3,3,0,2,1,0,13,2
+CF311AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,2,3,3,3,0,2,2,0,15,2
+CF311AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,,0,2,2,2,2,1,1,1,1,11,2,0,3,3,3,2,3,2,16,2,,,,,,2,3,3,3,0,2,3,0,16,2
+CF313AUD,participant_status_arm_3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-04-30,1,,2,,,,,,,,,,
+CF313AUD,baseline_arm_3,,4,1,1,"PF313AUD scored a 4 on the suicidality section of the MINI. She reported one suicide attempt when she was 15 years old. She got into a fight with her boyfriend and took ""a bunch"" of her mother's medications. She then started to feel funny, got scared, and went to her mother. They called 911 and went to the hospital. She recognized the reason she took the pills was because she didn't have anyone to talk to. She has not had any suicide attempt and has not engaged in any self-injury since. She has a history of recurring depression and anxiety. She is not currently in a depressive episode. She is seeing a psychiatrist and a psychologist regularly who she said are both great. She has protective factors of family, purpose, religion, and loving being alive. She reported having lots of resources to refer to if she were to feel worse. Additional resources were provided. The PI was called during the visit and relevant information was discussed. An email was sent to the PIs after the visit with the relevant information. ","Family, has a purpose on earth, religion, she reported she likes being alive. ",,,,,,,,,,,,,1,0,1,1,1,0,0,1,4,2,1,4,4,3,4,2,4,22,2,,,,,,1,0,3,3,3,0,1,2,13,2
+CF313AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,0,3,1,2,0,2,2,12,2
+CF313AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,3,1,0,1,1,2,8,2,1,3,3,3,4,2,4,20,2,,,,,,,,,,,,,,,
+CF313AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,3,2,3,3,3,3,1,1,19,2
+CF313AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,2,1,1,2,2,1,0,1,9,2,4,2,2,3,2,2,3,18,2,,,,,,2,1,2,2,2,1,2,2,14,2
+CF313AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,2,1,0,0,0,0,4,2
+CF313AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,,0,0,0,1,0,0,0,0,0,1,2,1,1,1,0,4,0,0,7,2,,,,,,0,0,0,0,1,0,0,0,1,2
+CF313AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,1,2
+CF322AUD,participant_status_arm_3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-05-03,1,,2,,,,,,,,,,
+CF322AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,7,2,1,1,1,2,3,2,3,13,2,,,,,,1,1,1,1,1,1,1,1,8,2
+CF322AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,2,2,2,2,12,2
+CF322AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,2,1,2,2,2,10,2,2,3,3,3,4,2,2,19,2,,,,,,,,,,,,,,,
+CF322AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,1,3,2,1,1,12,2
+CF322AUD,week_6_arm_3,,,,,,,1,2,1,0,,,,0,1,2,"Low Risk",2,2,2,2,2,1,1,3,2,13,2,1,1,2,2,3,2,2,13,2,,,,,,1,1,2,1,3,3,2,1,14,2
+CF322AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,2,1,1,3,3,2,1,15,2
+CF322AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,3,3,3,3,3,2,3,3,20,2,2,3,1,3,3,2,3,17,2,,,,,,3,3,3,2,3,2,2,2,20,2
+CF322AUD,week_12_arm_3,,,,,,,1,2,1,0,,,,0,0,1,"Low Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,3,3,3,3,3,24,2
+CM016AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM016AUD,baseline_arm_3,,6,1,1,"Participant was drinking heavily last month and got injured. Because this injury required surgery, he has had life interuptions that have caused frustration and guilt. He has no thought or plan to kill himself, but has had thoughts that others may be better off if he was dead. After confirming that he felt safe and not in danger currently, I sent over the mental health resources page. I also sent an email over to Dr. Kendrick and Dr. Love with a copy of the MINI, the score for this participant, and a summary of the context of our discussion. Dr. Kendrick replied and stated that no further action is necessary at this time. -LCE 10/28/21",,,,,,,,,,,,,,2,2,2,2,2,3,2,3,15,2,3,2,0,3,3,4,3,18,2,,,,,,2,2,3,2,2,2,2,1,16,2
+CM016AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,2,2,2,1,3,1,2,13,2,2,2,0,3,2,3,3,15,2,,,,,,,,,,,,,,,
+CM016AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,3,3,3,3,3,3,3,21,2,4,0,3,4,3,4,4,22,2,,,,,,,,,,,,,,,0
+CM016AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,2,2,2,2,14,2,3,0,0,3,3,3,3,15,2,,,,,,,,,,,,,,,0
+CM016AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,2,2,2,2,14,2,1,1,2,3,2,3,2,14,2,,,,,,,,,,,,,,,0
+CM023AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM023AUD,baseline_arm_3,,20,1,3,"7 years ago he had a hospitalization for a suicide attempt. In the last month, he has had 3-4 instances of suicidal ideation with some specificity regarding how, but has expressed that he feels very in control and has not had any intent or plan to act on those thoughts in the last 30 days. From our discussion, my impression was that he has worked very hard to overcome this in the past, and now has good tools and resources to cope. I offered to send him mental health resources, but he declined, citing that he felt he had good access to resources if he needed them. I also asked if he wanted to have Dr. Kendrick reach out, and he declined. I called and confirmed eligibility with Dr. Love, and also sent an email to Dr. Kendrick with a copy of the MINI and a summary of our discussion. He replied and stated that no further action was necessary. -LCE 11/11/21 ",,,,,,,,,,,,,,3,3,2,3,3,1,3,2,18,2,3,4,0,4,3,2,3,19,2,,,,,,3,3,3,3,3,3,3,0,21,2
+CM023AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,3,3,2,1,0,3,1,14,2,1,2,0,3,2,2,2,12,2,,,,,,,,,,,,,,,
+CM023AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,1,1,0,2,1,10,2,1,1,0,2,0,1,1,6,2,,,,,,,,,,,,,,,0
+CM023AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,1,1,7,2,1,1,0,3,1,1,1,8,2,,,,,,,,,,,,,,,0
+CM023AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,0,1,1,6,2,1,1,0,2,1,1,1,7,2,,,,,,,,,,,,,,,0
+CM053AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM053AUD,baseline_arm_3,,5,1,1,"Made a suicide attempt 6 or 7 years ago",,,,,,,,,,,,,,3,2,2,2,1,0,1,1,11,2,3,4,0,4,3,2,3,19,2,,,,,,1,2,3,3,3,2,0,0,14,2
+CM053AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,3,1,1,1,2,1,1,1,10,2,2,4,1,3,2,2,2,16,2,,,,,,,,,,,,,,,
+CM053AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,2,1,1,2,12,2,2,4,1,3,2,2,3,17,2,,,,,,,,,,,,,,,0
+CM053AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,2,2,1,1,1,2,2,12,2,3,3,1,3,1,1,3,15,2,,,,,,,,,,,,,,,0
+CM053AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,2,2,1,1,1,1,10,2,2,3,1,2,2,2,3,15,2,,,,,,,,,,,,,,,0
+CM059AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM059AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,1,2,1,2,2,3,2,2,2,14,2,,,,,,0,0,1,1,0,0,0,0,2,2
+CM059AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,0,1,0,0,5,2,1,0,2,2,1,1,3,10,2,,,,,,,,,,,,,,,
+CM059AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,1,0,1,5,2,0,2,2,2,2,1,2,11,2,,,,,,,,,,,,,,,0
+CM059AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,1,6,2,0,2,1,2,1,1,1,8,2,,,,,,,,,,,,,,,0
+CM059AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,1,0,1,5,2,0,2,2,2,2,1,2,11,2,,,,,,,,,,,,,,,0
+CM065AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM065AUD,baseline_arm_3,,8,1,1,"Once this last month had an intrusive thought of being better off dead. It took attention away from other things for a while, but left that same day. I sent over resources to him at the time of this section. Will follow up with Dr. Kendrick to see if any further follow up is necessary. -12/30/21 LCE    No further follow up needed. Email correspondence with Dr. Kendrick uploaded to Box. -LCE 1/3/22",,,,,,,,,,,,,,3,2,1,2,2,1,1,1,12,2,1,3,2,3,2,2,3,16,2,,,,,,2,2,3,1,2,1,1,1,13,2
+CM065AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,3,1,2,3,1,2,2,1,14,2,2,3,2,2,2,4,3,18,2,,,,,,,,,,,,,,,
+CM065AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,3,2,3,3,2,2,1,18,2,2,3,2,3,2,3,2,17,2,,,,,,,,,,,,,,,0
+CM065AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,3,3,3,2,2,3,2,19,2,2,2,2,4,4,3,3,20,2,,,,,,,,,,,,,,,0
+CM065AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,2,2,3,1,1,1,2,13,2,2,2,2,3,3,3,3,18,2,,,,,,,,,,,,,,,0
+CM070AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM070AUD,baseline_arm_3,,2,1,1,"Patient reported some feelings of being better off dead, but feels really good and safe right now. He reported having a substantial support network if things got worse that he could rely on. He declined an additional copy of the mental health resources. Reports having many supportive family members, etc that help him have perspective. Will send an email to Dr. Kendrick to confirm that no further follow up is necessary. -LCE 1/12/22",,,,,,,,,,,,,,1,1,1,0,0,1,0,1,4,2,3,0,0,3,2,2,2,12,2,,,,,,2,3,2,2,1,2,2,0,14,2
+CM070AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,1,1,0,1,0,0,4,2,2,0,0,3,2,2,2,11,2,,,,,,,,,,,,,,,
+CM070AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,0,0,0,0,0,0,1,2,2,1,0,3,2,2,1,11,2,,,,,,,,,,,,,,,0
+CM070AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,1,1,0,1,0,0,1,3,2,3,0,0,3,2,2,2,12,2,,,,,,,,,,,,,,,0
+CM070AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,0,0,0,0,1,3,2,2,1,0,2,1,1,1,8,2,,,,,,,,,,,,,,,0
+CM071AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM071AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,1,1,1,2,0,0,2,7,2,,,,,,0,0,1,1,0,0,0,0,2,2
+CM071AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,1,0,0,0,0,0,2,2,0,1,1,2,0,0,1,5,2,,,,,,,,,,,,,,,
+CM071AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,0,1,0,0,0,0,2,2,0,1,1,1,0,0,1,4,2,,,,,,,,,,,,,,,0
+CM071AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,0,0,0,5,2,1,0,0,1,0,0,0,2,2,,,,,,,,,,,,,,,0
+CM071AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,2,,,,,,,,,,,,,,,0
+CM077AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM077AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,1,1,0,2,1,1,7,2,2,2,0,2,2,1,1,10,2,,,,,,0,1,2,2,1,1,1,0,8,2
+CM077AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,0,0,0,1,0,4,2,1,1,0,2,1,1,1,7,2,,,,,,,,,,,,,,,
+CM077AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,0,0,0,1,0,0,3,2,1,1,0,2,1,1,1,7,2,,,,,,,,,,,,,,,0
+CM077AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,0,0,1,1,0,3,2,1,1,0,1,1,2,1,7,2,,,,,,,,,,,,,,,0
+CM077AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,0,0,1,0,0,2,2,0,1,0,2,1,0,0,4,2,,,,,,,,,,,,,,,0
+CM083AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM083AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,0,1,1,1,0,0,4,2,2,1,1,2,0,1,0,7,2,,,,,,0,0,1,0,1,0,2,0,4,2
+CM083AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,1,1,5,2,1,3,2,3,0,1,1,11,2,,,,,,,,,,,,,,,
+CM083AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,0,1,0,1,1,0,5,2,0,2,1,3,0,2,1,9,2,,,,,,,,,,,,,,,0
+CM083AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,0,1,0,0,1,0,4,2,1,3,2,3,0,2,1,12,2,,,,,,,,,,,,,,,0
+CM083AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,0,1,0,1,1,1,4,2,0,2,2,3,0,1,1,9,2,,,,,,,,,,,,,,,0
+CM084AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM084AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,1,0,0,0,0,1,1,2,2,2,2,2,1,0,2,11,2,,,,,,0,0,2,0,0,0,0,0,2,2
+CM084AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,1,0,0,0,0,1,2,2,1,0,0,1,1,0,0,3,2,,,,,,,,,,,,,,,
+CM084AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,1,0,1,0,1,4,2,0,0,0,2,1,1,1,5,2,,,,,,,,,,,,,,,0
+CM084AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,0,0,0,0,1,3,2,3,1,0,3,1,3,2,13,2,,,,,,,,,,,,,,,0
+CM084AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,1,0,0,0,0,2,2,1,0,0,2,0,1,1,5,2,,,,,,,,,,,,,,,0
+CM085AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM085AUD,baseline_arm_3,,12,1,2,"No current intent or plan. Going to therapy and has adequate resources. Participant declined an additional copy of the mental health resources. Will send an email to follow up with Dr. Kendrick. -LCE 1/25/22    Received Dr. Kendrick's response: no follow up necessary. -LCE 1/26/22",,,,,,,,,,,,,,2,1,1,1,1,2,0,1,8,2,2,2,0,2,1,1,1,9,2,,,,,,1,1,1,1,2,1,1,0,8,2
+CM085AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,0,1,6,2,1,1,0,2,4,1,0,9,2,,,,,,,,,,,,,,,
+CM085AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,1,1,2,0,0,10,2,0,0,0,1,0,0,0,1,2,,,,,,,,,,,,,,,0
+CM085AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,0,0,0,1,0,0,2,2,0,0,0,1,0,0,0,1,2,,,,,,,,,,,,,,,0
+CM085AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,0,1,0,1,0,0,4,2,0,0,0,0,0,0,0,0,2,,,,,,,,,,,,,,,0
+CM111AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM111AUD,baseline_arm_3,,5,1,1,"Past suicide attempt about 1 year ago. Confirmed that he has suicide resource sheet. Feels comfortable that he has sufficient access and resources right now. -LCE 2/24/22",,,,,,,,,,,,,,1,0,0,2,2,3,0,2,8,2,2,3,1,3,3,2,3,17,2,,,,,,1,1,2,1,0,0,1,0,6,2
+CM111AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,2,1,2,1,1,1,1,10,2,2,1,2,2,2,2,2,13,2,,,,,,,,,,,,,,,
+CM111AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,1,2,1,1,12,2,2,2,2,2,2,2,3,15,2,,,,,,,,,,,,,,,0
+CM111AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,0,1,0,0,0,1,2,2,3,1,0,2,2,1,1,10,2,,,,,,,,,,,,,,,0
+CM111AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,2,3,0,0,1,2,8,2,1,1,1,1,1,2,2,9,2,,,,,,,,,,,,,,,0
+CM149AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM149AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,1,1,3,1,1,0,1,7,2,4,4,3,4,4,4,4,27,2,,,,,,3,0,3,2,3,0,0,1,12,2
+CM149AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,2,1,1,2,1,1,9,2,3,2,2,3,3,3,2,18,2,,,,,,,,,,,,,,,
+CM149AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,1,1,1,6,2,,,,,,,,,,,,,,,0
+CM149AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,4,2,,,,,,,,,,,,,,,0
+CM149AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,1,1,0,0,2,2,1,1,1,0,1,0,0,4,2,,,,,,,,,,,,,,,0
+CM152AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM152AUD,baseline_arm_3,,1,1,1,"Pt denied current SI.  Pt reported that he has things in his life he is looking forward to, and good protective factors.  CS",,,,,,,,,,,,,,2,2,2,2,1,2,0,1,11,2,3,1,1,3,2,2,2,14,2,,,,,,2,1,2,2,1,1,2,0,11,2
+CM152AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,3,3,3,3,1,1,1,1,15,2,2,1,1,2,3,1,1,11,2,,,,,,,,,,,,,,,
+CM152AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,1,1,1,1,2,1,9,2,2,1,0,2,0,1,1,7,2,,,,,,,,,,,,,,,0
+CM152AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,2,1,2,1,9,2,1,0,0,1,0,0,0,2,2,,,,,,,,,,,,,,,0
+CM152AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,1,0,1,0,0,4,2,1,0,0,1,1,0,1,4,2,,,,,,,,,,,,,,,0
+CM169AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM169AUD,baseline_arm_3,,6,1,1,"Thoughts of self-harm only but no action. ",,,,,,,,,,,,,,3,2,2,3,2,1,1,3,14,2,3,2,2,3,3,3,4,20,2,,,,,,2,3,2,3,3,2,1,2,18,2
+CM169AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,1,2,2,1,3,2,12,2,2,2,3,3,3,2,2,17,2,,,,,,,,,,,,,,,
+CM169AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,1,1,0,0,1,0,0,3,2,1,1,2,2,1,1,1,9,2,,,,,,,,,,,,,,,0
+CM169AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,2,0,0,1,0,4,2,1,1,1,0,1,1,1,6,2,,,,,,,,,,,,,,,0
+CM169AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,1,0,1,2,0,0,0,4,2,2,2,2,2,1,1,1,11,2,,,,,,,,,,,,,,,0
+CM171AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM171AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,1,2,4,4,3,4,3,4,4,26,2,,,,,,0,0,3,2,1,0,0,0,6,2
+CM171AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,1,1,0,1,0,0,3,2,2,1,2,3,3,3,3,17,2,,,,,,,,,,,,,,,
+CM171AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,2,2,1,8,2,2,2,1,2,2,3,2,14,2,,,,,,,,,,,,,,,0
+CM171AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,1,0,2,1,0,5,2,1,2,1,3,1,1,1,10,2,,,,,,,,,,,,,,,0
+CM171AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,1,0,1,2,1,6,2,1,1,2,3,1,2,1,11,2,,,,,,,,,,,,,,,0
+CM174AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM174AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,0,1,1,1,0,1,4,2,2,3,2,3,2,3,1,16,2,,,,,,0,0,2,1,0,1,0,0,4,2
+CM174AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,1,0,1,0,1,2,2,1,2,2,3,1,1,1,11,2,,,,,,,,,,,,,,,
+CM174AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,1,1,1,0,1,3,2,2,2,0,3,1,1,1,10,2,,,,,,,,,,,,,,,0
+CM174AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,1,1,1,0,0,3,2,2,2,1,2,1,0,1,9,2,,,,,,,,,,,,,,,0
+CM174AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,1,1,0,0,2,2,1,1,1,1,1,1,1,7,2,,,,,,,,,,,,,,,0
+CM178AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM178AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,1,2,2,2,2,1,2,1,12,2,3,3,3,3,3,4,3,22,2,,,,,,1,2,3,2,2,2,2,2,16,2
+CM178AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,0,0,1,1,5,2,2,2,3,2,1,2,1,13,2,,,,,,,,,,,,,,,
+CM178AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,0,1,0,1,0,1,4,2,2,2,2,2,1,1,1,11,2,,,,,,,,,,,,,,,0
+CM178AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,3,2,2,2,3,1,1,15,2,1,3,1,3,2,2,2,14,2,,,,,,,,,,,,,,,0
+CM178AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,1,1,1,0,1,1,7,2,2,2,2,2,2,2,2,14,2,,,,,,,,,,,,,,,0
+CM183AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM183AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,1,0,1,2,1,1,2,8,2,,,,,,0,0,1,1,0,0,0,0,2,2
+CM183AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,0,1,0,1,0,2,4,2,1,2,1,3,2,2,3,14,2,,,,,,,,,,,,,,,
+CM183AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,0,0,1,0,0,2,2,0,1,1,2,2,1,2,9,2,,,,,,,,,,,,,,,0
+CM183AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,1,0,1,1,1,5,2,0,1,1,2,2,1,2,9,2,,,,,,,,,,,,,,,0
+CM183AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,1,1,1,6,2,0,0,1,2,1,1,2,7,2,,,,,,,,,,,,,,,0
+CM189AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM189AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,2,2,2,1,1,2,2,12,2,3,3,2,3,2,4,2,19,2,,,,,,1,2,1,2,2,1,2,2,13,2
+CM189AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,0,1,1,0,1,1,5,2,1,3,3,2,1,1,1,12,2,,,,,,,,,,,,,,,
+CM189AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,0,0,0,1,1,3,2,1,2,2,2,1,0,1,9,2,,,,,,,,,,,,,,,0
+CM189AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,2,1,1,2,1,1,10,2,2,3,2,3,2,2,2,16,2,,,,,,,,,,,,,,,0
+CM189AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,2,2,1,1,1,2,1,12,2,2,2,2,2,2,2,2,14,2,,,,,,,,,,,,,,,0
+CM194AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM194AUD,baseline_arm_3,,5,1,1,"Pt reported attempting suicide twice over thirty years ago. He tried using a rope. Pt reported he feels safe currently and ""does not want to go anywhere anytime soon"". Pt did not want to discuss it further. ","Psychiatrist, family including brothers, wife, and friends who are all close. Has a cat he cares about. Is open to therapy if he feels depressed again. ",,,,,,,,,,,,,1,3,3,2,1,1,2,0,13,2,3,3,2,3,1,3,3,18,2,,,,,,1,1,3,2,0,2,2,1,12,2
+CM194AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,2,2,2,1,2,2,2,13,2,2,1,3,3,3,3,3,18,2,,,,,,,,,,,,,,,
+CM194AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,3,3,3,1,2,3,1,17,2,3,2,2,4,2,4,3,20,2,,,,,,,,,,,,,,,0
+CM194AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,3,2,2,0,2,3,1,14,2,2,1,2,3,2,2,3,15,2,,,,,,,,,,,,,,,0
+CM194AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,2,1,1,8,2,2,1,0,2,2,2,2,11,2,,,,,,,,,,,,,,,0
+CM207AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM207AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,2,1,1,0,0,1,6,2,3,3,3,3,3,2,1,18,2,,,,,,1,0,2,1,1,0,2,1,8,2
+CM207AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,2,1,1,0,1,7,2,3,3,2,3,2,2,2,17,2,,,,,,,,,,,,,,,
+CM207AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,2,1,1,2,0,1,1,8,2,2,3,3,3,2,3,2,18,2,,,,,,,,,,,,,,,0
+CM207AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,2,2,1,1,1,2,10,2,2,2,3,3,2,2,2,16,2,,,,,,,,,,,,,,,0
+CM207AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,1,2,2,1,1,1,11,2,2,3,2,2,3,2,3,17,2,,,,,,,,,,,,,,,0
+CM212AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM212AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,1,1,1,1,1,0,0,1,5,2,3,3,3,4,3,4,2,22,2,,,,,,0,0,3,1,1,1,1,1,8,2
+CM212AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,2,7,2,2,3,3,3,2,3,2,18,2,,,,,,,,,,,,,,,
+CM212AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,1,2,1,2,1,2,10,2,2,3,2,3,2,3,3,18,2,,,,,,,,,,,,,,,0
+CM212AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,2,1,1,2,1,1,10,2,2,3,1,2,3,3,2,16,2,,,,,,,,,,,,,,,0
+CM212AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,2,2,2,1,1,1,10,2,3,2,3,2,2,3,2,17,2,,,,,,,,,,,,,,,0
+CM214AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM214AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,1,1,1,1,1,1,0,1,6,2,2,2,2,3,4,3,3,19,2,,,,,,1,0,2,1,1,0,2,1,8,2
+CM214AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,2,1,1,0,1,7,2,2,2,2,2,4,2,2,16,2,,,,,,,,,,,,,,,
+CM214AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,0,1,1,1,0,0,4,2,2,2,1,2,2,2,2,13,2,,,,,,,,,,,,,,,0
+CM214AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,1,1,1,1,1,1,1,6,2,2,2,1,3,2,2,1,13,2,,,,,,,,,,,,,,,0
+CM214AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,2,1,1,8,2,1,2,1,2,2,2,2,12,2,,,,,,,,,,,,,,,0
+CM220AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+CM220AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,2,2,1,2,2,1,2,12,2,3,3,3,3,3,3,3,21,2,,,,,,2,2,1,2,2,1,2,2,14,2
+CM220AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,2,1,1,1,1,1,9,2,2,3,2,3,2,3,2,17,2,,,,,,,,,,,,,,,
+CM220AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,1,1,1,1,2,10,2,1,1,2,3,1,1,2,11,2,,,,,,,,,,,,,,,0
+CM220AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,1,2,1,1,1,1,9,2,3,2,2,3,2,2,2,16,2,,,,,,,,,,,,,,,0
+CM220AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,1,2,1,1,2,2,10,2,3,2,2,2,2,3,2,16,2,,,,,,,,,,,,,,,0
+CM224AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-11-25,4,,2,,,,,,,,,,
+CM224AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,2,2,2,3,2,2,0,13,2,,,,,,0,0,2,0,0,0,0,0,2,2
+CM224AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,3,2,3,3,2,3,2,18,2,,,,,,,,,,,,,,,
+CM224AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,2,2,1,1,0,2,0,8,2,,,,,,,,,,,,,,,0
+CM224AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,2,3,2,3,0,3,0,13,2,,,,,,,,,,,,,,,0
+CM224AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,2,1,2,2,2,2,0,11,2,,,,,,0,0,0,0,0,0,0,0,0,2
+CM229AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-03,2,1,2,,,,,,,,,,
+CM229AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,2,1,0,0,0,3,2,3,3,2,3,2,3,1,17,2,,,,,,0,0,3,0,0,0,0,0,3,2
+CM229AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,2,1,2,2,2,1,2,12,2,,,,,,,,,,,,,,,
+CM229AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2
+CM229AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,1,1,2,2,1,1,2,10,2,,,,,,0,0,0,0,0,0,0,0,0,2
+CM229AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,1,2
+CM236AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-12-19,3,1,2,,,,,,,,,,
+CM236AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,2,2,2,3,3,4,3,19,2,,,,,,0,0,2,1,0,0,0,0,3,2
+CM236AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,0,1,1,1,6,2,2,2,1,3,2,2,2,14,2,,,,,,,,,,,,,,,
+CM236AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,1,1,7,2,2,1,2,2,2,2,2,13,2,,,,,,,,,,,,,,,0
+CM236AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,8,2
+CM236AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,1,1,1,1,1,7,2,2,2,1,2,2,2,2,13,2,,,,,,1,1,1,1,1,1,1,1,8,2
+CM237AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-12-21,3,1,2,,,,,,,,,,
+CM237AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,0,0,0,0,0,0,0,2,2,2,1,0,3,3,2,1,12,2,,,,,,0,0,1,1,1,0,0,0,3,2
+CM237AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,2,2,2,2,2,2,1,14,2,2,2,2,2,2,2,2,14,2,,,,,,,,,,,,,,,
+CM237AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,2,2,2,1,14,2,2,2,2,2,2,2,2,14,2,,,,,,,,,,,,,,,0
+CM237AUD,week_8_arm_3,,,,,,,2,2,0,0,,,,0,0,0,"No Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,2,2,2,2,2,16,2
+CM251AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-12-27,2,1,2,,,,,,,,,,
+CM251AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,1,1,1,1,1,2,1,1,8,2,2,2,2,3,2,3,2,16,2,,,,,,1,1,2,1,2,0,1,1,9,2
+CM251AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,2,1,1,1,8,2,2,2,1,2,1,2,1,11,2,,,,,,,,,,,,,,,
+CM251AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,0,1,0,0,1,1,5,2
+CM251AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,1,0,1,0,1,5,2,1,1,2,1,1,1,0,7,2,,,,,,1,0,0,1,0,0,0,0,2,2
+CM251AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,0,1,0,1,1,0,5,2
+CM255AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-12-28,2,,2,,,,,,,,,,
+CM255AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,2,2,3,2,3,3,2,2,17,2,3,3,3,4,3,3,3,22,2,,,,,,2,2,3,3,2,3,3,2,20,2
+CM255AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,0,0,0,1,4,2,2,0,1,2,1,1,2,9,2,,,,,,,,,,,,,,,
+CM255AUD,week_4_arm_3,,,,,,,1,2,1,0,,,,0,1,2,"Low Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,2,1,1,0,8,2
+CM255AUD,week_6_arm_3,,,,,,,1,2,1,0,,,,0,1,2,"Low Risk",2,1,1,1,2,2,2,1,1,10,2,1,1,2,2,1,1,2,10,2,,,,,,1,1,1,1,2,1,1,1,9,2
+CM255AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,0,0,6,2
+CM255AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,1,0,1,1,1,6,2,1,1,2,1,3,2,1,11,2,,,,,,0,1,1,1,0,0,0,0,3,2
+CM255AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1,0,0,1,0,4,2
+CM255AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,0,6,2,0,1,1,1,3,0,1,7,2,,,,,,1,1,0,0,0,1,0,0,3,2
+CM256AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-12-30,2,1,2,,,,,,,,,,
+CM256AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,2,1,2,1,1,2,1,1,10,2,2,2,2,2,2,2,3,15,2,,,,,,2,1,2,2,1,1,2,1,12,2
+CM256AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,1,2,2,2,1,2,11,2,1,2,1,2,2,1,2,11,2,,,,,,,,,,,,,,,
+CM256AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,2,2,1,1,2,11,2
+CM256AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,0,2,1,2,1,1,1,8,2,2,2,2,1,2,1,2,12,2,,,,,,2,1,1,1,2,1,1,1,10,2
+CM256AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,2,1,1,1,1,2,11,2
+CM263AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-21,1,1,2,,,,,,,,,,
+CM263AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,1,2,1,2,0,1,0,0,0,4,2,,,,,,0,0,1,1,0,0,0,1,3,2
+CM263AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,8,2
+CM263AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,7,2,2,2,2,3,2,2,2,15,2,,,,,,,,,,,,,,,
+CM263AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,8,2
+CM263AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,1,1,1,1,1,7,2,2,2,2,2,2,2,2,14,2,,,,,,1,1,1,1,1,1,1,1,8,2
+CM269AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-17,1,,2,,,,,,,,,,
+CM269AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,2,1,1,0,1,2,6,2,3,2,3,1,1,1,1,12,2,,,,,,2,2,1,2,1,2,2,2,14,2
+CM269AUD,week_2_arm_3,,,,,,,1,2,0,0,,,,0,0,0,"No Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,0,1,0,1,1,5,2
+CM269AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,1,1,1,1,0,0,4,2,1,1,1,0,1,1,1,6,2,,,,,,,,,,,,,,,
+CM269AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,1,0,1,0,4,2
+CM269AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,1,0,0,1,0,1,2,2,0,1,0,0,4,0,1,6,2,,,,,,0,0,0,1,0,1,0,0,2,2
+CM269AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,1,0,0,0,0,3,2
+CM269AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,1,0,0,0,0,1,1,2,0,1,0,0,1,0,0,2,2,,,,,,0,1,0,0,0,0,1,0,2,2
+CM269AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2
+CM269AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,,,,,,3,0,0,1,0,0,0,0,4,2
+CM271AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-19,1,1,2,,,,,,,,,,
+CM271AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,2,2,2,1,2,1,2,12,2,3,3,3,4,3,4,3,23,2,,,,,,2,1,2,2,2,2,2,2,15,2
+CM271AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2
+CM271AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,0,1,0,2,1,1,1,6,2,,,,,,,,,,,,,,,
+CM271AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2
+CM271AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,1,1,2,2,1,1,1,9,2,,,,,,0,0,0,0,0,0,0,0,0,2
+CM287AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-27,1,1,2,,,,,,,,,,
+CM287AUD,baseline_arm_3,,0,0,0,"Constantly looking down, not paying much attention",,,,,,,,,,,,,,0,0,0,0,0,0,1,1,1,2,3,3,2,3,2,3,2,18,2,,,,,,0,0,0,0,0,0,0,0,0,2
+CM287AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,0,0,1,1,0,5,2
+CM287AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,0,1,2,2,2,1,9,2,2,1,2,2,1,2,1,11,2,,,,,,,,,,,,,,,
+CM287AUD,week_4_arm_3,,,,,,,1,2,0,0,,,,0,0,0,"No Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,0,1,0,1,6,2
+CM294AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-02-14,1,,2,,,,,,,,,,
+CM294AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,2,2,,,,,,0,0,1,1,0,0,1,0,3,2
+CM294AUD,week_2_arm_3,,,,,,,1,2,0,0,,,,0,0,0,"No Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,2,1,2,1,2,12,2
+CM294AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,2,1,2,1,2,2,11,2,2,3,2,3,2,3,2,17,2,,,,,,,,,,,,,,,
+CM294AUD,week_4_arm_3,,,,,,,2,2,0,0,,,,1,1,2,"High Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,2,1,1,2,2,12,2
+CM294AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,2,1,2,2,1,2,2,1,12,2,2,1,2,1,2,1,2,11,2,,,,,,2,1,2,1,2,1,1,2,12,2
+CM294AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,2,1,1,2,1,2,12,2
+CM294AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,2,1,1,2,1,2,1,1,10,2,2,1,2,1,2,3,2,13,2,,,,,,2,1,2,2,1,2,1,1,12,2
+CM294AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,2,1,1,2,1,2,12,2
+CM294AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,2,1,1,2,1,2,1,1,10,2,2,1,2,2,2,2,2,13,2,,,,,,1,2,1,1,2,2,1,2,12,2
+CM297AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-02-06,1,1,2,,,,,,,,,,
+CM297AUD,baseline_arm_3,,0,0,0,"pt disconnected due to bad connection  2 other times that screen froze, and audio skipped  Staff asked if there was a different location or device to use.  Pt insisted connection was fine, then more AV problems.  Pt said if it happened again we would reschedule",,,,,,,,,,,,,,2,2,1,2,2,1,2,2,12,2,3,3,3,3,3,3,2,20,2,,,,,,1,2,1,1,2,2,1,1,11,2
+CM297AUD,week_2_arm_3,,,,,,,1,2,0,0,,,,0,0,0,"No Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,1,2,1,2,1,1,2,1,11,2
+CM297AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,2,1,1,2,1,9,2,2,2,3,2,2,2,2,15,2,,,,,,,,,,,,,,,
+CM297AUD,week_4_arm_3,,,,,,,1,2,0,0,,,,0,0,0,"No Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,3,2,1,2,2,1,2,2,15,2
+CM301AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-02-13,1,1,2,,,,,,,,,,
+CM301AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,0,1,1,1,1,0,0,1,4,2,2,2,0,2,2,2,1,11,2,,,,,,0,0,1,0,1,0,0,1,3,2
+CM301AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,0,2,0,2,0,0,0,6,2
+CM319AUD,participant_status_arm_3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-05-03,1,,2,,,,,,,,,,
+CM319AUD,baseline_arm_3,,1,1,1,"Increased drinking during pandemic; will go for a walk or excercise to feel better. Do things with friends. Spend more time with family. Wants to work less and read/hike more. ",,,,,,,,,,,,,,2,3,3,3,1,2,1,2,15,2,2,4,3,4,3,4,4,24,2,,,,,,2,2,3,3,2,3,2,1,18,2
+CM319AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,3,1,3,1,1,18,2
+CM319AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,3,3,3,3,1,3,2,3,18,2,2,4,2,4,3,4,4,23,2,,,,,,,,,,,,,,,
+CM319AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,3,3,3,2,3,1,1,18,2
+CM319AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,3,3,2,3,1,3,3,2,18,2,2,4,2,4,3,4,4,23,2,,,,,,3,3,3,3,1,3,1,1,18,2
+CM319AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,2,3,3,3,1,3,1,0,16,2
+CM319AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,,0,3,3,2,3,1,3,3,2,18,2,2,4,3,4,3,4,3,23,2,,,,,,2,3,3,3,2,3,1,1,18,2
+CM319AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,2,2,3,3,1,2,0,1,14,2
+MF001AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF001AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,1,1,1,3,3,1,0,1,10,2,3,1,0,4,3,3,3,17,2,,,,,,0,0,2,0,2,2,2,1,9,2
+MF001AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,3,2,2,3,3,1,1,2,15,2,3,3,2,3,3,3,3,20,2,,,,,,,,,,,,,,,
+MF001AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,2,3,3,1,0,1,12,2,2,2,0,2,2,2,2,12,2,,,,,,,,,,,,,,,0
+MF001AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,1,3,3,2,1,1,13,2,2,2,2,3,2,2,3,16,2,,,,,,,,,,,,,,,0
+MF001AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,3,3,1,1,1,14,2,2,2,1,3,2,2,2,14,2,,,,,,,,,,,,,,,0
+MF035AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF035AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,2,2,3,1,1,1,1,12,2,3,2,1,3,2,3,3,17,2,,,,,,1,0,1,3,1,1,1,1,9,2
+MF035AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,3,2,2,2,0,2,1,12,2,1,1,0,3,3,3,3,14,2,,,,,,,,,,,,,,,
+MF035AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,3,1,0,2,1,9,2,2,1,0,3,1,3,2,12,2,,,,,,,,,,,,,,,0
+MF035AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,2,2,1,0,3,1,10,2,2,0,0,3,4,2,2,13,2,,,,,,,,,,,,,,,0
+MF035AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,0,1,1,6,2,1,0,0,3,1,2,1,8,2,,,,,,,,,,,,,,,0
+MF038AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF038AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,0,1,3,1,0,1,6,2,1,3,3,4,2,2,4,19,2,,,,,,0,0,3,3,0,0,0,0,6,2
+MF038AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,2,2,0,1,8,2,2,2,2,3,2,2,3,16,2,,,,,,,,,,,,,,,
+MF038AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,1,1,7,2,0,0,2,2,1,1,4,10,2,,,,,,,,,,,,,,,0
+MF038AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,1,1,1,0,0,4,2,0,0,1,1,0,0,1,3,2,,,,,,,,,,,,,,,0
+MF038AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,0,1,0,0,0,2,2,0,0,0,1,0,0,0,1,2,,,,,,,,,,,,,,,0
+MF061AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF061AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,1,1,1,0,0,1,5,2,2,2,1,3,2,2,2,14,2,,,,,,0,0,2,1,1,0,0,1,5,2
+MF061AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,2,2,1,0,0,1,8,2,2,2,1,3,0,2,2,12,2,,,,,,,,,,,,,,,
+MF061AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,2,2,1,0,0,1,8,2,2,3,2,3,3,2,2,17,2,,,,,,,,,,,,,,,0
+MF061AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,1,0,0,1,9,2,1,2,1,3,3,2,2,14,2,,,,,,,,,,,,,,,0
+MF061AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,1,1,1,0,0,1,6,2,1,2,2,3,2,2,2,14,2,,,,,,,,,,,,,,,0
+MF087AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF087AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,1,1,1,0,0,2,4,2,3,3,1,4,3,2,3,19,2,,,,,,0,0,1,1,1,0,1,0,4,2
+MF087AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,0,1,6,2,3,2,1,4,3,3,3,19,2,,,,,,,,,,,,,,,
+MF087AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,0,1,1,0,1,5,2,3,2,0,4,1,3,3,16,2,,,,,,,,,,,,,,,0
+MF087AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,1,6,2,3,3,2,4,3,3,3,21,2,,,,,,,,,,,,,,,0
+MF087AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,1,2,7,2,2,3,1,3,3,3,2,17,2,,,,,,,,,,,,,,,0
+MF100AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF100AUD,baseline_arm_3,,4,1,1,"Singular suicide attempt occurred in 2011 when patient was in high school during her one-time depressive episode.    Pt reported she has the mental health resources from initial email; declined an additional copy being resent.  Pt denies plan/intent.  Pt asserts they have good support.  Email sent to Dr. Kendrick",,,,,,,,,,,,,,0,0,0,1,0,0,0,0,1,2,2,2,1,3,2,2,2,14,2,,,,,,0,0,2,1,1,0,1,0,5,2
+MF100AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,0,0,1,1,5,2,1,1,1,2,3,2,2,12,2,,,,,,,,,,,,,,,
+MF100AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,2,1,1,1,1,8,2,1,0,1,2,1,2,2,9,2,,,,,,,,,,,,,,,0
+MF100AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,0,0,0,1,0,1,2,2,1,0,0,2,2,1,2,8,2,,,,,,,,,,,,,,,0
+MF100AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,1,0,0,0,0,1,2,1,0,1,2,1,0,1,6,2,,,,,,,,,,,,,,,0
+MF105AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF105AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,3,4,3,4,0,0,1,15,2,,,,,,0,0,2,1,0,0,0,0,3,2
+MF105AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,3,2,1,1,1,1,2,1,11,2,1,2,2,3,0,2,2,12,2,,,,,,,,,,,,,,,
+MF105AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,1,0,2,2,2,11,2,0,3,3,3,1,2,3,15,2,,,,,,,,,,,,,,,0
+MF105AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,1,0,0,1,2,1,1,1,1,0,1,2,7,2,,,,,,,,,,,,,,,0
+MF105AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,0,0,1,2,0,6,2,1,2,0,2,0,1,2,8,2,,,,,,,,,,,,,,,0
+MF125AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF125AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,1,1,0,1,0,0,4,2,3,2,3,3,0,2,3,16,2,,,,,,1,0,3,3,0,0,0,0,7,2
+MF125AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,1,1,0,1,0,0,4,2,1,2,1,1,0,1,1,7,2,,,,,,,,,,,,,,,
+MF125AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,2,0,2,0,0,7,2,2,1,1,3,0,2,1,10,2,,,,,,,,,,,,,,,0
+MF125AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,1,0,0,5,2,1,2,2,3,0,1,1,10,2,,,,,,,,,,,,,,,0
+MF125AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,2,0,0,6,2,1,2,1,2,0,1,2,9,2,,,,,,,,,,,,,,,0
+MF128AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF128AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,1,3,2,1,3,1,12,2,3,4,1,4,4,4,4,24,2,,,,,,0,0,3,1,2,0,3,0,9,2
+MF128AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,0,2,1,1,2,1,8,2,3,2,1,4,3,3,3,19,2,,,,,,,,,,,,,,,
+MF128AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,3,3,3,1,3,3,2,19,2,4,4,1,4,4,3,4,24,2,,,,,,,,,,,,,,,0
+MF128AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,1,2,1,2,3,2,12,2,3,4,0,3,4,4,4,22,2,,,,,,,,,,,,,,,0
+MF128AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,1,1,2,1,3,2,2,13,2,2,4,0,4,4,3,4,21,2,,,,,,,,,,,,,,,0
+MF159AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF159AUD,baseline_arm_3,,6,1,1,"Pt reported an attempt in 2007.  Does not remember the event.  Feels safe and stable right now.   Reported having really good friends.    Pt in California.",,,,,,,,,,,,,,1,1,1,1,1,0,0,2,5,2,4,3,3,4,3,4,4,25,2,,,,,,1,1,3,1,2,1,1,0,10,2
+MF159AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,3,2,0,1,1,2,0,1,9,2,3,2,3,3,2,3,1,17,2,,,,,,,,,,,,,,,
+MF159AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,2,0,2,1,1,2,1,9,2,1,2,1,1,2,1,1,9,2,,,,,,,,,,,,,,,0
+MF159AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,2,,,,,,,,,,,,,,,0
+MF159AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,2,,,,,,,,,,,,,,,0
+MF170AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF170AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,1,1,0,1,0,2,5,2,3,3,3,3,3,3,3,21,2,,,,,,1,1,1,1,1,1,1,0,7,2
+MF170AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,2,2,1,2,1,2,11,2,2,3,3,3,3,2,4,20,2,,,,,,,,,,,,,,,
+MF170AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,1,2,1,2,12,2,3,3,2,3,2,2,3,18,2,,,,,,,,,,,,,,,0
+MF170AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,1,2,1,2,12,2,2,3,2,2,2,3,4,18,2,,,,,,,,,,,,,,,0
+MF170AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,1,6,2,1,1,1,1,1,1,2,8,2,,,,,,,,,,,,,,,0
+MF209AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF209AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,2,1,1,1,1,0,1,8,2,3,4,4,4,2,4,2,23,2,,,,,,3,1,3,3,2,0,1,0,13,2
+MF209AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,2,3,2,2,0,1,12,2,3,2,3,4,3,3,2,20,2,,,,,,,,,,,,,,,
+MF209AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,2,1,2,2,2,1,1,11,2,1,2,0,2,2,1,2,10,2,,,,,,,,,,,,,,,0
+MF209AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,2,1,1,1,1,2,0,9,2,1,3,2,1,2,3,1,13,2,,,,,,,,,,,,,,,0
+MF209AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,2,1,1,0,0,0,0,5,2,1,1,2,2,1,2,1,10,2,,,,,,,,,,,,,,,0
+MF211AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF211AUD,baseline_arm_3,,6,1,1,"One attempt when pt was 18  Offered list of mental health resources.  Pt said it was ok to send them.  Pt denied current thoughts.  Pt feels safe.","her spiritual faith is important to her  adores her dog  has family within driving distance (less than one hour)",,,,,,,,,,,,,2,1,2,2,0,1,1,2,9,2,4,3,2,4,3,3,3,22,2,,,,,,3,2,3,3,2,3,2,0,18,2
+MF211AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,2,2,1,1,1,1,2,10,2,4,2,2,4,2,4,3,21,2,,,,,,,,,,,,,,,
+MF211AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,2,2,1,1,1,1,10,2,4,2,3,4,3,4,3,23,2,,,,,,,,,,,,,,,0
+MF211AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,1,2,2,1,1,2,3,12,2,3,3,2,4,2,4,4,22,2,,,,,,,,,,,,,,,0
+MF211AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,2,2,2,2,2,2,2,15,2,4,4,3,4,3,3,4,25,2,,,,,,,,,,,,,,,0
+MF213AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MF213AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,1,1,2,2,1,1,1,1,9,2,3,3,3,4,3,3,3,22,2,,,,,,1,1,3,3,1,2,1,0,12,2
+MF213AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,2,2,1,1,2,2,1,12,2,2,2,3,3,2,2,3,17,2,,,,,,,,,,,,,,,
+MF213AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,2,1,1,1,1,1,8,2,2,2,3,3,2,1,3,16,2,,,,,,,,,,,,,,,0
+MF213AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,2,1,1,2,1,1,9,2,1,2,3,2,2,2,3,15,2,,,,,,,,,,,,,,,0
+MF213AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,0,0,1,0,1,4,2,1,2,2,2,2,1,2,12,2,,,,,,,,,,,,,,,0
+MF223AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-11-29,3,,2,,,,,,,,,,
+MF223AUD,baseline_arm_3,,2,1,1,,"friends (doesn't want to talk to them), hobbies, med school  have resources",,,,,,,,,,,,,2,0,0,1,1,0,0,2,4,2,2,0,1,3,3,3,2,14,2,,,,,,2,1,3,1,1,1,2,1,12,2
+MF223AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,1,3,2,1,1,1,11,2,2,3,3,3,2,2,3,18,2,,,,,,,,,,,,,,,
+MF223AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,1,2,2,2,1,2,11,2,2,1,2,4,3,3,3,18,2,,,,,,,,,,,,,,,0
+MF223AUD,week_8_arm_3,,,,,,,1,2,0,0,,,,0,0,0,"No Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,1,1,3,3,3,3,3,1,18,2
+MF223AUD,week_10_arm_3,,,,,,,1,2,1,0,,,,0,0,1,"Low Risk",2,1,1,2,2,2,3,1,1,12,2,3,2,4,4,4,4,3,24,2,,,,,,2,2,3,3,3,2,3,1,19,2
+MF223AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2,2,2,1,2,1,12,2
+MF223AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,0,0,1,1,1,0,1,4,2,1,1,2,3,2,2,2,13,2,,,,,,2,2,2,2,2,2,2,1,15,2
+MF246AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-04,2,1,2,,,,,,,,,,
+MF246AUD,baseline_arm_3,,1,1,1,"Reasons for hopeless in the path month: Work has been giving her a lot of difficulties and having some family problems. ",,,,,,,,,,,,,,2,3,2,2,2,2,1,2,14,2,3,3,3,4,3,4,3,23,2,,,,,,2,2,3,2,2,2,2,1,16,2
+MF246AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,2,2,2,2,2,2,2,14,2,3,3,3,3,3,3,3,21,2,,,,,,,,,,,,,,,
+MF246AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,2,2,2,2,2,16,2
+MF246AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,2,2,2,3,2,3,0,2,14,2,3,2,3,3,3,3,3,20,2,,,,,,2,2,2,2,2,2,2,0,14,2
+MF246AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,2,1,1,1,1,0,9,2
+MF249AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-12-23,3,1,2,,,,,,,,,,
+MF249AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,1,3,1,3,2,3,2,3,15,2,4,0,4,4,4,4,4,24,2,,,,,,3,0,3,3,3,0,3,3,18,2
+MF249AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,2,1,2,2,1,0,1,10,2,3,3,3,3,3,3,3,21,2,,,,,,,,,,,,,,,
+MF249AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,3,3,3,2,2,2,3,17,2,3,3,3,3,4,4,4,24,2,,,,,,,,,,,,,,,0
+MF249AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,2,2,2,2,2,16,2
+MF258AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-12-28,2,1,2,,,,,,,,,,
+MF258AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,1,1,1,1,0,1,6,2,3,3,3,4,3,3,1,20,2,,,,,,1,1,2,2,1,0,1,0,8,2
+MF258AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,0,1,1,2,6,2,2,2,2,3,3,3,3,18,2,,,,,,,,,,,,,,,
+MF258AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,2,1,1,1,1,9,2
+MF258AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,2,1,1,1,2,0,9,2,1,1,2,3,3,3,1,14,2,,,,,,1,1,2,2,1,1,1,0,9,2
+MF258AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,0,0,1,0,5,2
+MF258AUD,week_10_arm_3,,,,,,,1,2,0,0,,,,0,0,0,"No Risk",2,1,1,1,1,1,1,1,1,7,2,1,4,3,2,1,1,1,13,2,,,,,,1,0,1,1,0,1,1,1,6,2
+MF265AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-02-01,1,,2,,,,,,,,,,
+MF265AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,1,1,0,0,0,0,2,2,1,1,2,3,2,1,2,12,2,,,,,,0,0,1,0,1,0,0,0,2,2
+MF265AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,1,1,0,0,0,4,2
+MF265AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,0,1,0,1,0,0,4,2,2,2,2,3,2,2,2,15,2,,,,,,,,,,,,,,,
+MF265AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,2,0,0,0,4,2
+MF265AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,1,1,1,0,0,0,1,3,2,1,1,2,3,1,2,1,11,2,,,,,,0,0,1,1,1,1,0,0,4,2
+MF265AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,1,0,0,0,2,2
+MF265AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,1,0,0,0,1,0,0,2,2,1,1,1,2,2,2,1,10,2,,,,,,0,0,1,1,1,0,0,0,3,2
+MF265AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,1,0,0,0,2,2
+MF265AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,1,0,1,1,1,6,2,2,1,2,2,1,1,1,10,2,,,,,,0,0,1,1,1,1,0,0,4,2
+MF272AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-20,1,1,2,,,,,,,,,,
+MF272AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,3,3,3,4,3,3,0,19,2,,,,,,0,0,0,0,0,0,0,0,0,2
+MF272AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,3,0,0,0,0,0,3,2
+MF272AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,3,3,2,3,2,4,3,20,2,,,,,,,,,,,,,,,
+MF272AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,3,0,0,0,0,0,3,2
+MF281AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-24,1,1,2,,,,,,,,,,
+MF281AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,3,3,2,3,2,3,1,17,2,,,,,,0,0,0,0,0,0,0,0,0,2
+MF281AUD,week_2_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+MF281AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,2,1,1,2,2,2,1,11,2,,,,,,,,,,,,,,,
+MF281AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,0,0,0,0,2,2
+MF281AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,0,0,1,0,0,4,2,1,0,1,0,0,1,0,3,2,,,,,,0,0,1,1,0,0,0,0,2,2
+MF306AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-03-20,1,,2,,,,,,,,,,
+MF306AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,0,1,0,0,0,1,2,2,2,2,3,4,1,3,1,16,2,,,,,,1,0,0,1,0,0,0,0,2,2
+MF306AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,3,2,2,0,0,0,9,2
+MF306AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,0,1,0,1,0,1,3,2,3,3,4,4,0,1,1,16,2,,,,,,,,,,,,,,,
+MF306AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,0,1,0,6,2
+MF306AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,1,1,0,0,0,1,2,2,2,2,3,4,1,4,2,18,2,,,,,,1,0,3,2,1,0,1,0,8,2
+MF306AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,3,2,1,0,0,0,9,2
+MF306AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,0,1,0,0,0,0,1,2,4,4,4,4,0,3,0,19,2,,,,,,1,1,3,1,0,0,0,0,6,2
+MF306AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,3,1,0,0,0,0,5,2
+MF306AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,0,1,0,0,0,0,1,2,3,3,3,4,0,3,0,16,2,,,,,,1,0,3,1,0,0,0,0,5,2
+MF309AUD,participant_status_arm_3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-04-30,1,,2,,,,,,,,,,
+MF309AUD,baseline_arm_3,,7,1,1,"Participant PF309 scored a 7 on the suicidality scale of the MINI. She endorsed a few occasions of feeling hopeless and 1 occasion where a thought around suicide came into her head in the past month. She reported the suicide thought was mild and easily controlled. She reported it was likely related to her hormones. She has a history of depression and anxiety. She has seen counselors off and on over the course of years. She reported psychotherapy has been helpful for her. She recently stopped seeing a counselor because she ""covered all topics and it was getting expensive"". This RA and the participant discussed additional options for support, options for going back to therapy, warning signs if she starts to feel worse, and things she could do on her own in the meantime. She was very receptive to this discussion. She reported feeling ""safe and stable"" currently and that she felt confident she would use the resources she has if needed. This RA provided additional resources. Protective factors include her cat, friends, family, and enjoying mornings and biking. The PI was called during the visit and all relevant information was discussed. An email went to the PIs highlighting this information after the visit. ","Her cat, mornings, biking, friends, family ",,,,,,,,,,,,,1,1,2,2,1,1,2,1,10,2,2,3,1,2,2,1,2,13,2,,,,,,1,1,1,2,0,2,1,1,9,2
+MF309AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,3,1,0,2,0,1,9,2
+MF309AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,2,1,3,2,1,1,1,11,2,1,2,1,2,2,0,2,10,2,,,,,,,,,,,,,,,
+MF309AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2,3,1,0,0,0,8,2
+MF309AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,2,1,2,2,1,2,1,1,11,2,1,2,2,2,1,2,3,13,2,,,,,,0,1,2,1,1,0,1,0,6,2
+MF309AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,0,1,0,0,1,0,5,2
+MF309AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,,0,3,3,3,3,3,3,2,2,20,2,1,2,2,2,4,3,4,18,2,,,,,,2,0,2,2,0,1,0,0,7,2
+MF309AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,2,0,2,3,2,0,3,0,12,2
+MF316AUD,participant_status_arm_3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-05-06,1,,0,,,,,,,,,,
+MF316AUD,baseline_arm_3,,9,1,2,"Participant PF316AUD scored a 9 (moderate) on the suicidality section of the MINI. She endorsed feeling hopeless the past month, engaging in self-injurious behavior, and making 2 suicide attempts in her lifetime.  She reported 3 episodes of depression over the course of her life. She did meet criteria for a current depressive episode although she endorsed being in a ""much better place and doing well"" compared to past years. She attempted suicide via hanging 2 years ago and via cutting in December of 2021. She reported doing much better now and not having any suicidal thoughts or ideation. She reported engaging in cutting 5 times in the past month. This RA and the participant discussed coping strategies. The participant reported music helps her and the participant and RA came up with reading, watching movies, and calling her friend to add to a list of coping strategies. The participant wrote these down and reported she would put it on a bulletin board near her bed as a reminder. The participant reported she was seeing a therapist in 2019 and it was ""very helpful"". She said she is not seeing one now because she hasn't gotten around to looking for one and she is concerned it will cost money. This RA used motivational interviewing around going back to a therapist. The patient was very receptive and reported she would like to. The patient said she was on anti-depressant medication at one point and she said it must have ""helped a lot"" because things got worse when she stopped taking it. RA and participant discussed going back to a psychiatrist. The participant was in agreement that seeing a psychiatrist would help. Protective factors include her dog, friends, and family. Additionally, she always makes sure to have at least one fun event/outing planned in the future to look forward to. She reported she has insurance and will be working full time in a week or two which will help provide additional financial support for seeing a therapist.      This RA provided the participant with national and local mental health resources. The PI was called and all relevant information was discussed. An email was sent to the relevant PIs with the MINI and a summary of the situation. One of the PIs knows resources in the area and plans to reach out to the participant to provide some further assistance. ","Always has fun events planned, dog, friend, her parents",,,,,,,,,,,,,1,1,2,0,1,2,2,1,9,2,3,4,2,4,1,2,3,19,2,,,,,,3,2,2,3,3,3,2,1,19,2
+MF316AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,3,3,3,3,2,1,18,2
+MF316AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,3,3,2,1,1,3,3,1,16,2,2,1,3,4,2,2,3,17,2,,,,,,,,,,,,,,,
+MF316AUD,week_4_arm_3,,,,,,,1,2,1,0,,,,0,0,1,"Low Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,2,1,3,3,3,2,1,2,17,2
+MF316AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,2,3,1,0,3,2,1,12,2,2,2,3,4,2,3,4,20,2,,,,,,3,3,1,3,3,3,2,2,20,2
+MF316AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,1,2,3,3,2,3,2,1,17,2
+MF316AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,,0,1,2,3,3,0,3,2,3,14,2,1,2,3,3,2,3,4,18,2,,,,,,3,2,1,3,3,3,3,2,20,2
+MF316AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,3,1,1,3,2,3,3,1,17,2
+MF317AUD,participant_status_arm_3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-05-08,1,,2,,,,,,,,,,
+MF317AUD,baseline_arm_3,,20,1,3,"HealthRhythms' participant PF317AUD scores a 20 (high) on the suicidality section of the MINI. She endorsed feeling hopeless and thinking she would be better off dead in the past month. She had thoughts about hurting herself or suicide 15 times in the past month. She described these thoughts as moderate in intensity and able to be controlled. She denies having a suicide method or plan in mind and she denies current ideation. She has recurring depression and met MINI criteria for current depression. She reported she has been having a hard time since being in a car accident a few years ago. She sees a psychologist every week and a psychiatrist every other week who are treating her and both very active in her care. She reported they have a safety plan in place where she calls close friends first, her psychologist second, and a suicide hotline last when she is in a ""down"" place. She has not engaged in any self-injury, has not taken any steps toward suicide, and has not had a suicide plan in mind in the past month. She has never had a suicide attempt. She reported feeling safe and she said her safety plan is very effective. She reported she has very supportive friends she can go to. Her protective factors include her friends, her pets, and walking with her dogs. She reported coping skills of hugging her dogs, meditation, deep breathing, and self-soothing. She reported she regularly engages in these activities. She had resources and reported she would not be afraid to use the suicide hotline. Additional resources were provided.      The PI of the study was called during the visit and relevant details were discussed. This summary and the MINI were sent to the PIs via email after the visit.  ","Friends, pets, walks with dogs, ",,,,,,,,,,,,,3,3,3,3,3,3,2,3,20,2,4,4,3,4,4,4,4,27,2,,,,,,3,3,3,3,2,2,3,2,21,2
+MF317AUD,week_2_arm_3,,,,,,,1,2,1,0,,,,0,1,2,"Low Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,2,2,3,3,2,2,3,2,19,2
+MF317AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,3,3,2,3,2,3,1,3,17,2,3,3,2,4,3,4,4,23,2,,,,,,,,,,,,,,,
+MF317AUD,week_4_arm_3,,,,,,,1,2,1,0,,,,0,1,2,"Low Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,2,2,3,3,1,1,2,1,15,2
+MF317AUD,week_6_arm_3,,,,,,,3,2,1,1,1,0,0,0,1,4,"Moderate Risk",2,3,3,3,3,2,3,2,3,19,2,4,4,3,4,4,4,4,27,2,,,,,,3,3,3,3,1,2,3,2,20,2
+MF317AUD,week_8_arm_3,,,,,,,2,2,1,1,0,0,0,0,1,3,"Low Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,3,1,2,2,1,18,2
+MF317AUD,week_10_arm_3,,,,,,,2,2,0,0,,,,0,0,0,"No Risk",2,2,2,2,2,1,2,1,2,12,2,3,3,1,3,4,4,4,22,2,,,,,,2,2,2,3,1,2,2,2,16,2
+MF317AUD,week_12_arm_3,,,,,,,1,2,1,0,,,,0,1,2,"Low Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,3,2,3,3,2,22,2
+MM015AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM015AUD,baseline_arm_3,,0,0,,"Daughter jumped on ribs and cracked one",,,,,,,,,,,,,,1,1,1,1,1,2,1,1,8,2,1,3,4,3,3,3,3,20,2,,,,,,1,1,2,0,1,1,0,0,6,2
+MM015AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,1,1,0,2,1,1,8,2,2,2,3,3,3,2,2,17,2,,,,,,,,,,,,,,,
+MM015AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,0,1,1,1,10,2,2,2,3,3,2,3,2,17,2,,,,,,,,,,,,,,,0
+MM015AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,0,2,2,1,12,2,2,3,3,3,3,2,2,18,2,,,,,,,,,,,,,,,0
+MM015AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,2,2,2,0,1,1,1,9,2,2,3,3,3,3,3,3,20,2,,,,,,,,,,,,,,,0
+MM028AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM028AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,1,1,1,1,0,1,5,2,1,2,2,3,2,2,2,14,2,,,,,,1,0,1,2,2,1,1,0,8,2
+MM028AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,0,2,1,3,1,1,9,2,2,1,0,3,2,1,2,11,2,,,,,,,,,,,,,,,
+MM028AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,2,2,1,1,9,2,1,1,2,3,1,1,2,11,2,,,,,,,,,,,,,,,0
+MM028AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+MM028AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+MM032AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM032AUD,baseline_arm_3,,1,1,1,"Just endorsed occassional feelings of hopelessness. ",,,,,,,,,,,,,,3,3,3,3,0,0,1,1,13,2,3,3,3,4,2,2,3,20,2,,,,,,1,0,3,3,1,1,1,0,10,2
+MM032AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,3,3,0,0,1,1,9,2,2,2,2,3,2,1,2,14,2,,,,,,,,,,,,,,,
+MM032AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,0,1,1,5,2,2,1,2,2,1,2,2,12,2,,,,,,,,,,,,,,,0
+MM032AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,2,3,0,0,1,1,8,2,1,1,2,2,0,2,2,10,2,,,,,,,,,,,,,,,0
+MM032AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,2,2,2,0,0,1,1,8,2,1,1,2,2,1,1,2,10,2,,,,,,,,,,,,,,,0
+MM036AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM036AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,1,1,0,0,1,0,1,5,2,2,3,2,3,3,3,3,19,2,,,,,,1,2,3,3,1,1,0,0,11,2
+MM036AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,0,0,1,0,1,4,2,2,2,1,3,2,2,3,15,2,,,,,,,,,,,,,,,
+MM036AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,1,2,2,3,1,3,12,2,4,3,3,4,3,4,4,25,2,,,,,,,,,,,,,,,0
+MM036AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,1,0,1,0,1,4,2,2,2,2,2,2,2,2,14,2,,,,,,,,,,,,,,,0
+MM036AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,2,1,2,8,2,3,3,3,3,3,3,3,21,2,,,,,,,,,,,,,,,0
+MM052AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM052AUD,baseline_arm_3,,1,0,1,,,,,,,,,,,,,,,1,2,2,1,1,1,1,1,9,2,2,2,2,3,1,2,2,14,2,,,,,,1,1,2,2,1,1,2,1,11,2
+MM052AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,2,2,2,1,1,3,2,13,2,1,1,1,3,1,2,3,12,2,,,,,,,,,,,,,,,
+MM052AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,3,3,1,0,1,2,2,13,2,2,1,0,3,1,3,3,13,2,,,,,,,,,,,,,,,0
+MM052AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,1,2,2,2,13,2,1,1,1,2,1,2,2,10,2,,,,,,,,,,,,,,,0
+MM052AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,3,3,3,3,3,3,3,21,2,1,2,2,3,1,3,3,15,2,,,,,,,,,,,,,,,0
+MM060AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM060AUD,baseline_arm_3,,8,1,1,"Has had some thoughts of suicide/being better off dead, but they are quickly pushed out of his head.   Has mental health resources handy if he needs them.   Not feeling out of control/unable to control impulses ",,,,,,,,,,,,,,3,3,3,3,3,3,3,3,21,2,3,4,0,4,3,4,4,22,2,,,,,,3,3,3,3,3,3,3,3,24,2
+MM060AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,3,3,3,3,3,3,2,2,20,2,1,3,1,3,2,3,4,17,2,,,,,,,,,,,,,,,
+MM060AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,3,3,3,3,3,3,2,2,20,2,2,4,1,4,3,3,2,19,2,,,,,,,,,,,,,,,0
+MM060AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,3,3,3,3,3,3,1,20,2,1,2,0,3,1,2,2,11,2,,,,,,,,,,,,,,,0
+MM060AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,3,3,2,1,3,2,2,16,2,1,2,0,2,1,1,1,8,2,,,,,,,,,,,,,,,0
+MM062AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM062AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,1,1,0,1,0,3,2,2,2,0,3,2,3,2,14,2,,,,,,3,2,3,3,2,1,1,0,15,2
+MM062AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,2,1,1,0,2,7,2,2,1,0,3,2,3,3,14,2,,,,,,,,,,,,,,,
+MM062AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,1,2,1,1,1,7,2,2,1,1,3,2,2,3,14,2,,,,,,,,,,,,,,,0
+MM062AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,1,1,2,6,2,3,1,1,4,4,4,4,21,2,,,,,,,,,,,,,,,0
+MM062AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,0,3,1,1,3,8,2,2,3,2,3,3,3,4,20,2,,,,,,,,,,,,,,,0
+MM064AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM064AUD,baseline_arm_3,,2,1,1,,,,,,,,,,,,,,,1,3,3,3,0,3,2,1,15,2,3,3,3,4,3,2,3,21,2,,,,,,2,2,2,1,2,2,1,0,12,2
+MM064AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,0,1,0,1,5,2,1,1,1,1,1,0,1,6,2,,,,,,,,,,,,,,,
+MM064AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,1,0,0,5,2,1,1,1,1,0,0,0,4,2,,,,,,,,,,,,,,,0
+MM064AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,1,1,1,6,2,0,1,1,1,1,0,1,5,2,,,,,,,,,,,,,,,0
+MM064AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,1,2,1,1,2,1,11,2,0,0,1,1,1,0,0,3,2,,,,,,,,,,,,,,,0
+MM075AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM075AUD,baseline_arm_3,,4,1,1,"Attempt in 2020 associated with divorce. Feels safe currently and declined having additional resources sent over email. Sent follow up email to Dr. Kendrick. -LCE 1/5/21    No follow up required. Correspondence with Dr. Kendrick is stored in Box in the participant's folder. -LCE 1/5/21",,,,,,,,,,,,,,0,0,0,2,2,2,0,1,6,2,2,1,2,3,0,3,3,14,2,,,,,,0,0,1,2,0,1,0,0,4,2
+MM075AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,1,1,0,0,1,0,0,3,2,1,1,2,2,1,0,2,9,2,,,,,,,,,,,,,,,
+MM075AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,2,0,3,2,0,2,8,2,1,2,1,3,0,2,3,12,2,,,,,,,,,,,,,,,0
+MM075AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,0,0,0,0,1,1,2,0,1,2,3,0,2,2,10,2,,,,,,,,,,,,,,,0
+MM075AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,2,2,2,0,1,6,2,1,0,0,3,1,2,3,10,2,,,,,,,,,,,,,,,0
+MM076AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM076AUD,baseline_arm_3,,4,1,1,"He made a suicide attempt as a teenager. Right now, he feels safe and like he has sufficient resources if these thoughts or impulses were to return. He has a copy of the mental health resources. Will write to Dr. Kendrick to confirm that no more follow up is needed. He responded and wrote that no follow up is needed. This correspondence has been saved in this participant's Box folder. -LCE 1/28/22",,,,,,,,,,,,,,1,0,1,1,0,0,1,1,4,2,1,2,2,2,1,1,1,10,2,,,,,,0,0,1,0,1,0,0,0,2,2
+MM076AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,1,1,2,2,1,1,2,1,0,0,1,6,2,,,,,,,,,,,,,,,
+MM076AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,1,0,0,1,1,4,2,0,1,1,1,0,0,1,4,2,,,,,,,,,,,,,,,0
+MM076AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,1,0,1,1,1,5,2,0,1,1,2,1,1,1,7,2,,,,,,,,,,,,,,,0
+MM076AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,0,1,0,0,0,1,2,2,0,1,1,2,0,1,1,6,2,,,,,,,,,,,,,,,0
+MM081AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM081AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,1,1,3,1,1,1,8,2,3,1,0,3,1,1,1,10,2,,,,,,1,0,2,1,2,1,0,1,8,2
+MM081AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,1,1,2,0,0,1,5,2,1,0,2,2,1,1,1,8,2,,,,,,,,,,,,,,,
+MM081AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,1,1,0,0,1,4,2,1,1,2,1,2,2,2,11,2,,,,,,,,,,,,,,,0
+MM081AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,1,1,0,0,1,2,2,1,1,1,2,2,1,1,9,2,,,,,,,,,,,,,,,0
+MM081AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,0,1,0,1,0,1,3,2,1,0,0,1,0,0,1,3,2,,,,,,,,,,,,,,,0
+MM095AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM095AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,1,1,1,1,0,0,5,2,2,3,3,3,0,2,2,15,2,,,,,,1,1,3,2,0,1,1,0,9,2
+MM095AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,2,1,1,1,8,2,1,1,3,2,2,1,2,12,2,,,,,,,,,,,,,,,
+MM095AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,2,2,1,2,1,2,1,11,2,1,1,2,2,1,1,1,9,2,,,,,,,,,,,,,,,0
+MM095AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,2,1,1,2,1,2,1,10,2,2,2,3,3,2,2,3,17,2,,,,,,,,,,,,,,,0
+MM095AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,2,1,2,1,2,1,11,2,2,1,3,2,2,2,2,14,2,,,,,,,,,,,,,,,0
+MM104AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM104AUD,baseline_arm_3,,4,1,1,"Past attempt 13 years ago and nothing since. Feels like he has adequate resources right now if these thoughts were to return. -LCE 2/22/22",,,,,,,,,,,,,,0,0,2,0,1,2,0,1,5,2,2,1,0,2,0,2,1,8,2,,,,,,0,0,1,2,0,1,0,0,4,2
+MM104AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,1,0,1,1,0,1,3,2,1,2,0,2,0,1,2,8,2,,,,,,,,,,,,,,,
+MM104AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,0,1,1,0,1,5,2,1,1,0,2,0,1,2,7,2,,,,,,,,,,,,,,,0
+MM104AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,0,0,1,0,1,2,2,0,0,0,1,0,0,2,3,2,,,,,,,,,,,,,,,0
+MM104AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,1,0,0,1,2,0,0,0,1,0,1,1,3,2,,,,,,,,,,,,,,,0
+MM106AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM106AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,3,3,3,3,2,3,3,20,2,,,,,,0,0,3,1,0,0,0,0,4,2
+MM106AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,3,3,3,3,1,3,3,19,2,,,,,,,,,,,,,,,
+MM106AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,2,3,3,3,1,2,2,16,2,,,,,,,,,,,,,,,0
+MM106AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,2,2,2,3,0,2,2,13,2,,,,,,,,,,,,,,,0
+MM106AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,2,2,1,2,0,1,1,9,2,,,,,,,,,,,,,,,0
+MM119AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM119AUD,baseline_arm_3,,0,0,0,"Pulled a muscle at work",,,,,,,,,,,,,,0,1,0,1,0,1,0,1,3,2,3,3,3,4,2,1,1,17,2,,,,,,0,0,2,2,1,1,0,0,6,2
+MM119AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,1,1,0,2,1,0,5,2,1,2,1,3,1,1,1,10,2,,,,,,,,,,,,,,,
+MM119AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,0,1,2,0,2,1,0,7,2,0,2,2,3,1,1,1,10,2,,,,,,,,,,,,,,,0
+MM119AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,1,0,1,1,0,3,2,1,2,1,3,1,1,1,10,2,,,,,,,,,,,,,,,0
+MM119AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,1,1,0,1,0,0,3,2,1,1,1,2,0,1,1,7,2,,,,,,,,,,,,,,,0
+MM132AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM132AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,2,0,0,2,2,2,0,1,8,2,0,3,3,3,2,1,2,14,2,,,,,,1,0,1,1,0,0,1,0,4,2
+MM132AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,2,1,2,1,1,1,9,2,1,2,1,2,1,1,1,9,2,,,,,,,,,,,,,,,
+MM132AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+MM133AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM133AUD,baseline_arm_3,,8,1,1,"Pt confirmed he felt safe; denied intent; indicated close by and supportive family.  Pt reported that he used to joke that he would kayak off a waterfall in Yellowstone.  Will send resources.",,,,,,,,,,,,,,3,3,3,3,3,3,2,2,20,2,4,4,2,4,4,4,4,26,2,,,,,,2,2,3,1,2,2,2,2,16,2
+MM139AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM139AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,1,0,1,0,0,2,2,3,3,2,3,2,2,2,17,2,,,,,,1,0,3,2,0,0,1,1,8,2
+MM139AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,1,2,2,2,0,2,7,2,2,3,2,3,2,2,3,17,2,,,,,,,,,,,,,,,
+MM139AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,1,6,2,2,3,0,3,3,3,3,17,2,,,,,,,,,,,,,,,0
+MM139AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,2,1,1,0,1,7,2,3,2,1,3,3,3,3,18,2,,,,,,,,,,,,,,,0
+MM139AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,1,6,2,2,3,1,3,2,3,3,17,2,,,,,,,,,,,,,,,0
+MM145AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM145AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,0,1,1,1,0,0,0,1,3,2,3,3,3,4,3,3,2,21,2,,,,,,1,1,3,2,1,0,0,0,8,2
+MM150AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM150AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,2,2,2,3,1,2,1,13,2,,,,,,0,0,0,0,0,0,0,0,0,2
+MM150AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,0,1,1,2,1,1,1,7,2,,,,,,,,,,,,,,,
+MM150AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,0,1,2,2,2,0,1,8,2,,,,,,,,,,,,,,,0
+MM150AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,1,0,0,0,1,0,1,2,2,0,0,2,2,1,1,1,7,2,,,,,,,,,,,,,,,0
+MM150AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,2,0,0,0,0,2,2,0,0,2,3,2,2,2,11,2,,,,,,,,,,,,,,,0
+MM163AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM163AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,1,1,1,0,0,3,2,1,1,1,2,0,1,1,7,2,,,,,,0,0,1,0,0,0,1,1,3,2
+MM163AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,1,1,0,0,0,2,2,1,1,0,1,1,0,1,5,2,,,,,,,,,,,,,,,
+MM163AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,1,0,0,3,2,,,,,,,,,,,,,,,0
+MM163AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,1,1,0,0,0,2,2,1,0,0,0,0,0,0,1,2,,,,,,,,,,,,,,,0
+MM163AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,1,0,0,1,2,1,0,0,1,0,0,0,2,2,,,,,,,,,,,,,,,0
+MM176AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM176AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,1,2,2,1,1,0,1,9,2,2,2,2,3,1,3,3,16,2,,,,,,0,0,2,2,0,0,1,0,5,2
+MM176AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,1,1,1,0,1,0,1,4,2,2,2,2,3,0,2,2,13,2,,,,,,,,,,,,,,,
+MM176AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,1,1,7,2,1,1,2,3,2,1,3,13,2,,,,,,,,,,,,,,,0
+MM176AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,1,1,1,6,2,2,2,2,3,1,2,3,15,2,,,,,,,,,,,,,,,0
+MM176AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,2,2,1,1,1,9,2,2,2,1,3,1,2,3,14,2,,,,,,,,,,,,,,,0
+MM179AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM179AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,1,1,1,1,0,1,4,2,2,2,1,3,1,1,1,11,2,,,,,,0,0,1,1,0,0,0,0,2,2
+MM179AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,7,2,2,2,1,2,1,2,1,11,2,,,,,,,,,,,,,,,
+MM179AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,1,0,1,5,2,2,2,1,2,0,1,0,8,2,,,,,,,,,,,,,,,0
+MM179AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,1,6,2,2,1,1,2,0,1,1,8,2,,,,,,,,,,,,,,,0
+MM179AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,1,6,2,1,1,0,2,0,1,1,6,2,,,,,,,,,,,,,,,0
+MM191AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM191AUD,baseline_arm_3,,10,1,2,"Sx attempt in 2020.    Pt reports he has good support.  Is comfortable calling for help or going to a hospital.  Pt reported having his own list of mental health resources.  Pt reports none of the suicide symptoms have been around this summer.  Pt understands Sx thoughts increase when depression increases.","New relationship, building a new house, new dog.",,,,,,,,,,,,,1,0,1,2,1,2,1,1,8,2,1,1,1,3,1,1,2,10,2,,,,,,0,0,1,1,1,0,1,0,4,2
+MM191AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,1,2,1,1,8,2,1,2,1,2,1,0,1,8,2,,,,,,,,,,,,,,,
+MM191AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,2,1,1,7,2,1,1,0,2,0,0,1,5,2,,,,,,,,,,,,,,,0
+MM191AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,2,1,3,2,2,14,2,3,2,0,3,1,1,2,12,2,,,,,,,,,,,,,,,0
+MM191AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,2,1,0,7,2,1,1,2,2,0,0,1,7,2,,,,,,,,,,,,,,,0
+MM199AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM199AUD,baseline_arm_3,,8,1,1,"Pt reported that he could not control when the thoughts came, but was able to control them when they did, and to stop thinking about them.  Pt declined list of mental health resources saying ""I don't need it, it's fine.""","Family, kids, friends, self  feels comfortable reaching out if necessary",,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,2,2,2,3,0,0,1,10,2,,,,,,1,1,1,1,2,2,1,0,9,2
+MM199AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,2,2,0,3,0,0,1,8,2,,,,,,,,,,,,,,,
+MM199AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,2,2,0,3,1,0,0,8,2,,,,,,,,,,,,,,,0
+MM199AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,2,2,2,3,0,0,2,11,2,,,,,,,,,,,,,,,0
+MM199AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,1,1,1,3,1,0,0,7,2,,,,,,,,,,,,,,,0
+MM200AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM200AUD,baseline_arm_3,,1,0,1,"Pt sustained minor injuries while bouldering/rock climbing",,,,,,,,,,,,,,0,1,1,0,0,0,0,0,2,2,0,3,3,2,2,0,0,10,2,,,,,,0,0,2,1,1,0,0,0,4,2
+MM200AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,0,7,2,0,0,1,2,0,0,0,3,2,,,,,,,,,,,,,,,
+MM200AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,1,1,1,0,0,0,0,4,2,0,1,1,1,2,0,0,5,2,,,,,,,,,,,,,,,0
+MM200AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,,,,,,,,,,,,,,,0
+MM200AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,1,1,0,1,0,0,0,3,2,0,1,1,1,1,0,0,4,2,,,,,,,,,,,,,,,0
+MM206AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM206AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,1,2,2,1,1,1,9,2,3,3,2,3,3,3,3,20,2,,,,,,2,0,3,1,1,2,2,1,12,2
+MM206AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,2,1,0,0,1,1,6,2,2,2,3,3,3,1,1,15,2,,,,,,,,,,,,,,,
+MM206AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,2,1,1,1,1,1,9,2,2,3,3,3,2,2,3,18,2,,,,,,,,,,,,,,,0
+MM206AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,1,2,2,2,2,2,12,2,1,1,2,2,2,3,2,13,2,,,,,,,,,,,,,,,0
+MM206AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,1,2,1,1,2,1,2,1,10,2,2,2,2,2,2,2,2,14,2,,,,,,,,,,,,,,,0
+MM216AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM216AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,2,2,2,2,2,2,2,14,2,4,3,4,4,3,4,3,25,2,,,,,,3,3,2,3,2,2,2,2,19,2
+MM216AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,2,1,1,1,2,1,1,9,2,1,2,1,3,2,3,2,14,2,,,,,,,,,,,,,,,
+MM216AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,1,3,2,2,3,1,15,2,3,0,3,1,1,0,1,9,2,,,,,,,,,,,,,,,0
+MM216AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,1,0,0,1,2,0,0,1,1,0,0,1,3,2,,,,,,,,,,,,,,,0
+MM216AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,1,1,1,2,1,3,0,11,2,3,2,2,1,0,2,0,10,2,,,,,,,,,,,,,,,0
+MM218AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM218AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,2,1,2,1,2,1,1,10,2,3,3,3,3,2,2,3,19,2,,,,,,1,1,3,2,1,2,1,1,12,2
+MM218AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,2,1,2,2,1,1,1,10,2,2,1,3,3,2,3,2,16,2,,,,,,,,,,,,,,,
+MM218AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,1,2,1,2,2,1,12,2,2,3,2,3,2,2,3,17,2,,,,,,,,,,,,,,,0
+MM218AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,1,2,1,2,2,2,12,2,3,2,3,3,2,3,3,19,2,,,,,,,,,,,,,,,0
+MM218AUD,week_14_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,1,1,1,1,1,1,9,2,2,2,2,2,2,2,2,14,2,,,,,,,,,,,,,,,0
+MM222AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-11-15,4,,2,,,,,,,,,,
+MM222AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,1,2,3,2,2,3,2,2,2,16,2,,,,,,0,0,0,0,0,0,0,0,0,2
+MM222AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,2,2,1,4,1,2,2,14,2,,,,,,,,,,,,,,,
+MM222AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,3,2,2,3,1,2,1,14,2,,,,,,,,,,,,,,,0
+MM222AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,2,3,2,3,1,3,2,16,2,,,,,,,,,,,,,,,0
+MM222AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,2,0,0,0,0,0,2,2
+MM222AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,0,0,0,0,0,0,0,2,2,2,2,3,0,3,0,12,2,,,,,,0,0,2,0,0,0,0,0,2,2
+MM232AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-12-21,3,1,2,,,,,,,,,,
+MM232AUD,baseline_arm_3,,4,0,1,"2012  Pt knows where closest hospital is.  Pt recognizes triggers.  Pt reports he has a good support system, and has their numbers to call if needed.","Self, son",,,,,,,,,,,,,2,0,2,2,0,2,0,0,8,2,0,3,2,3,4,4,2,18,2,,,,,,2,2,3,2,1,2,2,1,15,2
+MM232AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,0,0,2,2,2,0,1,8,2,0,3,2,3,3,3,4,18,2,,,,,,,,,,,,,,,
+MM232AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,2,0,0,0,0,1,6,2,0,3,2,3,3,4,3,18,2,,,,,,,,,,,,,,,0
+MM232AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,3,0,0,1,1,0,7,2
+MM232AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,2,0,2,2,2,0,0,1,8,2,0,3,1,3,3,3,3,16,2,,,,,,2,1,3,3,1,0,1,1,12,2
+MM250AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-12-23,3,1,2,,,,,,,,,,
+MM250AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,1,1,1,1,0,2,1,1,7,2,2,2,2,3,3,3,2,17,2,,,,,,0,1,3,1,0,0,1,1,7,2
+MM250AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,2,2,1,1,1,1,9,2,2,2,2,2,3,2,2,15,2,,,,,,,,,,,,,,,
+MM250AUD,week_6_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,2,2,1,1,2,1,1,1,10,2,2,3,2,2,2,2,2,15,2,,,,,,,,,,,,,,,0
+MM250AUD,week_8_arm_3,,,,,,,2,2,0,0,,,,0,1,1,"No Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,1,2,1,1,1,1,1,1,9,2
+MM252AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-12-28,2,,2,,,,,,,,,,
+MM252AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,2,2,2,3,1,2,1,13,2,,,,,,0,0,2,1,0,0,0,0,3,2
+MM252AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,1,0,1,0,1,5,2,1,1,0,2,1,1,1,7,2,,,,,,,,,,,,,,,
+MM252AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,0,1,1,0,6,2
+MM252AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,1,1,0,0,0,5,2,1,1,1,1,1,1,1,7,2,,,,,,1,1,1,1,0,1,1,1,7,2
+MM252AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,1,2
+MM252AUD,week_10_arm_3,,,,,,,1,2,0,0,,,,0,0,0,"No Risk",2,1,1,1,1,1,1,1,1,7,2,1,1,1,1,1,1,1,7,2,,,,,,0,0,0,0,0,0,0,0,0,2
+MM252AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,0,0,0,0,0,2,2
+MM252AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,0,0,0,0,0,3,2,1,1,0,2,1,1,1,7,2,,,,,,0,1,0,0,0,0,0,0,1,2
+MM260AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2022-12-28,2,1,2,,,,,,,,,,
+MM260AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,3,4,2,3,1,4,3,20,2,,,,,,0,0,3,1,1,0,0,0,5,2
+MM260AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,1,1,1,2,1,1,1,8,2,,,,,,,,,,,,,,,
+MM260AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,2,0,0,0,0,1,3,2
+MM260AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,0,1,1,0,0,0,2,2,1,1,2,2,2,3,2,13,2,,,,,,0,0,1,1,0,0,0,0,2,2
+MM260AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,0,0,0,0,2,2
+MM267AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-24,1,,2,,,,,,,,,,
+MM267AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,0,1,1,0,0,0,0,0,2,2,2,0,2,2,2,2,1,11,2,,,,,,0,1,0,0,0,0,0,0,1,2
+MM267AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,0,1,1,1,1,1,7,2
+MM267AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,2,1,1,0,1,1,1,7,2,2,0,2,2,2,1,2,11,2,,,,,,,,,,,,,,,
+MM267AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,1,1,2,1,1,10,2
+MM267AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,1,1,1,0,1,6,2,2,0,0,2,1,2,1,8,2,,,,,,1,1,1,1,0,2,1,0,7,2
+MM267AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,1,0,1,0,0,0,0,2,2
+MM267AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,0,0,0,0,0,0,1,1,2,0,0,0,1,0,0,0,1,2,,,,,,1,1,0,0,0,0,0,0,2,2
+MM267AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2
+MM267AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,1,1,1,0,0,1,1,4,2,2,0,1,2,1,1,1,8,2,,,,,,1,1,1,1,0,1,1,1,7,2
+MM268AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-20,1,1,2,,,,,,,,,,
+MM268AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,1,1,0,0,0,2,4,2,3,3,3,4,4,4,4,25,2,,,,,,0,0,3,0,0,0,0,0,3,2
+MM268AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,1,3,1,0,0,0,0,5,2
+MM268AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,1,1,1,0,0,0,1,3,2,2,3,3,3,2,3,2,18,2,,,,,,,,,,,,,,,
+MM268AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,1,2,0,0,0,0,0,3,2
+MM268AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,1,0,1,0,1,5,2,2,2,2,4,1,3,1,15,2,,,,,,0,1,2,1,1,0,1,0,6,2
+MM268AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,1,2,1,1,0,0,0,5,2
+MM268AUD,week_10_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+MM268AUD,week_12_arm_3,,,,,,,,0,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+MM279AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-24,1,,2,,,,,,,,,,
+MM279AUD,baseline_arm_3,,1,0,0,,,,,,,,,,,,,,,0,0,1,0,0,0,1,0,2,2,2,3,3,3,2,2,2,17,2,,,,,,0,0,3,2,1,0,0,0,6,2
+MM279AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,1,0,0,0,3,2
+MM279AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,1,2,2,2,3,3,2,2,2,16,2,,,,,,,,,,,,,,,
+MM279AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,1,0,0,0,3,2
+MM279AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,1,0,0,0,0,1,0,2,2,2,3,4,3,2,1,2,17,2,,,,,,0,0,2,2,2,0,1,0,7,2
+MM279AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,0,0,0,0,0,2,2
+MM279AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,0,1,0,0,0,0,0,1,2,2,2,3,3,1,1,1,13,2,,,,,,0,0,1,1,1,0,0,0,3,2
+MM279AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,2,0,0,0,4,2
+MM279AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,1,1,1,0,1,0,0,4,2,0,1,2,2,1,1,1,8,2,,,,,,0,0,1,1,1,0,0,0,3,2
+MM282AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-26,1,,2,,,,,,,,,,
+MM282AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,1,1,1,0,0,0,0,3,2,2,0,2,3,4,4,4,19,2,,,,,,0,0,2,1,0,0,0,0,3,2
+MM282AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,1,0,0,0,0,2,2
+MM282AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,0,1,1,1,1,0,0,1,4,2,1,2,1,1,1,1,1,8,2,,,,,,,,,,,,,,,
+MM282AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,1,0,0,0,2,2
+MM282AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,0,1,1,0,0,0,0,1,2,2,1,2,2,1,1,2,1,10,2,,,,,,1,0,0,0,0,1,0,0,2,2
+MM282AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,0,0,0,0,0,2,2
+MM289AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-02-10,1,,2,,,,,,,,,,
+MM289AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,2,1,2,2,1,2,2,12,2,4,4,3,4,4,4,4,27,2,,,,,,3,2,3,2,2,3,2,2,19,2
+MM289AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,0,1,0,0,0,0,3,2
+MM289AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,0,1,0,0,0,0,2,2,2,1,2,3,2,3,2,15,2,,,,,,,,,,,,,,,
+MM289AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1,1,0,1,1,6,2
+MM289AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,2,1,1,1,1,1,1,8,2,1,2,2,2,1,2,2,12,2,,,,,,1,2,1,1,1,1,2,1,10,2
+MM289AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,0,1,1,1,0,4,2
+MM289AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,0,1,0,0,1,1,1,4,2,1,0,1,1,1,1,2,7,2,,,,,,1,1,1,0,1,0,0,1,5,2
+MM289AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,1,1,0,3,2
+MM289AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,0,1,0,1,1,0,1,4,2,1,0,1,0,0,0,1,3,2,,,,,,1,2,1,1,1,0,0,0,6,2
+MM290AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-31,1,1,2,,,,,,,,,,
+MM290AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,3,1,2,2,0,1,1,2,10,2,1,3,3,4,3,4,4,22,2,,,,,,2,2,1,2,0,0,1,0,8,2
+MM290AUD,week_2_arm_3,,,,,,,1,2,0,0,,,,0,0,0,"No Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,0,2,1,0,7,2
+MM290AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,1,1,0,0,0,0,2,3,2,1,2,1,2,2,3,3,14,2,,,,,,,,,,,,,,,
+MM290AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,0,0,0,0,0,4,2
+MM290AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,3,3,2,0,0,0,0,1,8,2,2,2,1,3,2,2,2,14,2,,,,,,2,1,0,1,0,0,0,0,4,2
+MM291AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+MM291AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,1,2,1,1,2,1,1,10,2,3,3,2,3,2,3,3,19,2,,,,,,2,0,3,1,1,1,1,1,10,2
+MM293AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-01-29,1,1,2,,,,,,,,,,
+MM293AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,1,2,3,2,1,3,4,4,3,20,2,,,,,,0,0,1,0,0,0,0,0,1,2
+MM293AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,1,1,0,0,0,0,3,2
+MM293AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,0,1,0,0,0,1,2,2,2,1,0,3,3,3,3,15,2,,,,,,,,,,,,,,,
+MM293AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,0,0,0,0,2,2
+MM312AUD,participant_status_arm_3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-04-23,1,,2,,,,,,,,,,
+MM312AUD,baseline_arm_3,,5,1,1,"Around 2005 he made a suicide attempt. He took a bottle of prescription medication. He started to feel better in 2009. Has seen a therapist, but is not seeing one currently. He is in a good place now and has support. Resources were provided.","Family and friends and reported he is in a ""good place""",,,,,,,,,,,,,2,1,0,3,1,0,1,1,8,2,3,2,2,3,2,2,2,16,2,,,,,,0,1,2,2,0,1,1,0,7,2
+MM312AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1,0,7,2
+MM312AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,0,2,1,0,1,2,7,2,2,2,1,2,1,1,1,10,2,,,,,,,,,,,,,,,
+MM312AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2,2,1,2,2,1,12,2
+MM312AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,2,2,1,3,3,2,2,2,15,2,3,2,2,3,2,4,4,20,2,,,,,,1,1,3,2,1,3,3,2,16,2
+MM312AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,3,2,1,1,1,1,11,2
+MM312AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,,0,2,1,1,2,2,1,1,2,10,2,2,2,3,3,2,1,1,14,2,,,,,,1,2,2,2,1,1,2,1,12,2
+MM312AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,1,2,1,2,1,1,1,1,10,2
+MM312AUD,week_14_arm_3,,,,,,,0,2,,,,,,,,,,0,2,2,0,2,2,1,1,2,10,2,1,3,3,3,2,3,3,18,2,,,,,,1,2,2,2,1,2,2,0,12,2
+MM315AUD,participant_status_arm_3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-04-29,1,,2,,,,,,,,,,
+MM315AUD,baseline_arm_3,,16,1,2,"Participant PM315AUD scored a 16 on the suicidality section of the MINI. He endorsed ""occasionally"" feeling hopeless, sometimes feeling like he would be better off dead, occasionally having thoughts of suicide and harming himself, and he reported one suicide attempt over 50 years ago. He has a history of depression. His depression started as a child from a ""rough childhood and difficult relationships with family members"". He reported one suicide attempt when he was in 10th grade when his girlfriend broke up with him. At that time, he took a sleeping medication that he reported did not have any effect and he felt ""dumb"" for making the attempt. He has not taken any steps toward suicide since. He reported he has had thoughts about suicide and harming himself for most of his life. He described them as ""abstract"". He reported they are passing and that he does not feel a desire to act on them. Additionally, he reported he ""would never hurt himself, suicide is something (he) would never attempt again, and (he) is repulsed by the thought"". He reported he is ""in a great place in life"" and is enjoying life. Protective factors include religious and moral beliefs, family, friends, enjoyment of life, and not wanting someone to find him dead. He has seen therapists for years and recently stopped seeing one because he was doing well. Resources were provided to him. The PI on the study was called during the visit and an email was sent with a summary after the visit.  ","Religion, moral, loves life, loves being here, wouldn't want someone to find him, family, friends",,,,,,,,,,,,,1,1,1,0,1,0,1,1,5,2,2,3,3,4,0,3,3,18,2,,,,,,1,1,3,1,2,0,1,0,9,2
+MM315AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,3,2,2,0,1,1,9,2
+MM315AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,1,0,0,1,0,0,1,1,3,2,3,3,3,3,3,3,2,20,2,,,,,,,,,,,,,,,
+MM315AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,0,3,2,1,0,1,0,8,2
+MM315AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,1,1,1,3,1,1,1,1,9,2,2,3,3,3,0,3,3,17,2,,,,,,1,1,3,2,1,1,2,0,11,2
+MM315AUD,week_8_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,0,0,1,0,5,2
+MM315AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,,0,1,0,1,0,0,0,1,0,3,2,2,2,2,2,1,1,2,12,2,,,,,,1,1,3,2,0,0,1,0,8,2
+MM315AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,2,0,0,1,0,7,2
+MM318AUD,participant_status_arm_3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-05-02,1,,2,,,,,,,,,,
+MM318AUD,baseline_arm_3,,1,0,,"He reported he has tried psychotherapy. He has had different therapists with different orientations. Sometimes they are helpful and sometimes they aren't. He is feeling better now. He is excited for study and to work on his sleep and alcohol consumption. ",,,,,,,,,,,,,,1,0,0,1,1,1,0,1,4,2,3,3,2,3,3,3,3,20,2,,,,,,1,1,3,2,2,0,1,0,10,2
+MM318AUD,week_2_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,1,2,3,2,0,0,0,0,8,2
+MM318AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,1,1,1,0,2,0,1,7,2,3,2,3,3,2,3,3,19,2,,,,,,,,,,,,,,,
+MM318AUD,week_4_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,3,1,0,0,0,0,7,2
+MM318AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,"No Risk",0,2,1,1,1,0,2,0,1,7,2,2,3,2,3,2,2,3,17,2,,,,,,3,0,2,3,1,0,0,0,9,2
+MM318AUD,week_8_arm_3,,,,,,,1,2,0,0,,,,0,0,0,"No Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,1,1,3,3,0,0,0,0,8,2
+MM318AUD,week_10_arm_3,,,,,,,0,2,,,,,,,,,,0,1,0,1,2,0,2,0,1,6,2,2,1,1,3,1,2,2,12,2,,,,,,2,1,3,1,0,0,0,0,7,2
+MM318AUD,week_12_arm_3,,,,,,,0,2,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,2,1,3,3,1,0,1,0,11,2
+MM321AUD,participant_status_arm_3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2023-05-17,1,,2,,,,,,,,,,
+MM321AUD,baseline_arm_3,,2,1,1,"5/17/23      Note-to-file            Participant PM321AUD scored a 2 on the suicidality section of the MINI. He endorsed feeling hopeless and thinking he would be better off dead in the past month. He reported life-long depression. He had a recent stressor of being told he would lose his disability support. He reported he would never think of, plan, or carry out suicide or hurting himself in any way. He sees suicide and hurting one's self as ""weak"". He said going through difficulties makes him stronger and is part of life. He reported he knows he can overcome anything. He reported he has coping strategies of ""turning off the world"", going up into the mountains, going in thrift stores to find treasures, music, and marijuana. He reported he has tried antidepressant, has seen a psychiatrist and has seen a psychologist occasionally. This RA used motivational interviewing around seeing a psychologist for an extended period of time. The participant was receptive.       The PI was called during the visit and relevant information was discussed. The patient was sent Utah specific mental health resources. A copy of the MINI was put in the participant's box folder. The MINI and a summary of the situation was sent to the PIs on the study.","Coffee in the morning, little things, the mountains, talking to people, friends, family, especially his mother",,,,,,,,,,,,,3,3,3,3,3,3,3,3,21,2,3,3,4,4,4,4,4,26,2,,,,,,3,3,3,3,3,3,3,3,24,2
+MM321AUD,week_3_arm_3,,,,,,,,,,,,,,,,,,,2,2,2,2,2,2,2,2,14,2,2,1,2,2,2,1,1,11,2,,,,,,,,,,,,,,,
+MM321AUD,week_6_arm_3,,,,,,,0,2,,,,,,,,,,0,1,1,1,1,2,1,1,1,8,2,1,1,2,2,1,1,1,9,2,,,,,,2,1,1,2,1,3,3,2,15,2
+PF003AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF003AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF004AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF004AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF007AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF007AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF012AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF012AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF018AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF019AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF019AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF022AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF022AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF025AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF027AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF033AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF034AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF042AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF043AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF046AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF050AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF055AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF055AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,4,4,4,4,4,4,4,28,2,,,,,,,,,,,,,,,0
+PF058AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF066AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF069AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF069AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF079AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF079AUD,baseline_arm_3,,4,1,1,"Past suicide attempt. Feels like she has current resources if feelings were to come back. ",,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF090AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF090AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF092AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF092AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF097AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF099AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF109AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF110AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF112AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF115AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF117AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF117AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF118AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF120AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF123AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF123AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF127AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF140AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF140AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,3,3,3,3,0,0,2,1,14,2,3,3,3,4,2,3,2,20,2,,,,,,2,3,3,2,3,3,2,0,18,2
+PF143AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF144AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF144AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,1,0,1,1,1,0,6,2,3,2,0,3,0,1,0,9,2,,,,,,1,1,1,1,3,0,0,0,7,2
+PF154AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF158AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF158AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,1,0,0,0,1,1,2,3,3,3,3,1,0,1,14,2,,,,,,0,0,1,1,0,0,0,0,2,2
+PF161AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF164AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF164AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF185AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF185AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF186AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF186AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF187AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF190AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF190AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF195AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF195AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF202AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF202AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF215AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF234AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF234AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,2,3,3,1,0,0,3,1,12,2,0,0,0,3,0,1,2,6,2,,,,,,2,2,1,3,3,0,3,3,17,2
+PF235AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF235AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF254AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF254AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,7,2,3,3,2,4,4,4,4,24,2,,,,,,1,1,1,1,1,1,1,1,8,2
+PF296AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF296AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF302AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF302AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF303AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF303AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF304AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF304AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF310AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF310AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF314AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF314AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,0,1,1,1,0,1,0,1,4,2,2,3,3,3,1,3,2,17,2,,,,,,1,1,3,2,0,0,0,0,7,2
+PF320AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF320AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PF323AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PF323AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM002AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM002AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM005AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM005AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM006AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM006AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM008AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM008AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM009AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM009AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM010AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM010AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM011AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM011AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM013AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM013AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM014AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM014AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM020AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM024AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM029AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM029AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM030AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM031AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM039AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM039AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM040AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM040AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM044AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM044AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM045AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM045AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM047AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM049AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM049AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM051AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM051AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM054AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM054AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM056AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM056AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM057AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM057AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM063AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM063AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM067AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM072AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM073AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM074AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM074AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM078AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM078AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM080AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM082AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM086AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM086AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM088AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM088AUD,baseline_arm_3,,16,1,2,"Participant detailed twice in the past month where he thought about suicide and thought he would be better of dead. He intentionally hurt himself, but not with the intent to die. ",,,,,,,,,,,,,,1,0,0,1,1,1,0,1,4,2,1,2,0,2,3,2,3,13,2,,,,,,1,1,0,2,1,0,0,1,6,2
+PM091AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM091AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM093AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM094AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM096AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM098AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM098AUD,baseline_arm_3,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM101AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM103AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM103AUD,baseline_arm_3,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM107AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM108AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM113AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM114AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM114AUD,baseline_arm_3,,4,0,1,"Pt asserted they felt fine now (attempt happened February 2020 after death of fiancée). Pt reported ""I basically tried to drink myself to death"".  Feels safe and supported now.  No further attempts.  He denies current SI thought, intent, or plan. The mental health resource page was sent to him after the visit. ",,,,,,,,,,,,,,1,0,0,1,0,1,0,1,3,2,2,2,3,3,2,2,3,17,2,,,,,,0,0,1,1,0,0,2,0,4,2
+PM116AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM121AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM121AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM124AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM124AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM130AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM130AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM134AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM134AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM135AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM135AUD,baseline_arm_3,,5,1,1,"Pt indicated they had not felt these things in the last month.  They felt safe and supported with friends and family.  Will send mental health resources.",,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM137AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM138AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM138AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM141AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM142AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM142AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,1,2,2,3,3,3,2,2,2,17,2,,,,,,0,0,2,1,1,0,0,0,4,2
+PM146AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM146AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM147AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM148AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM148AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM151AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM151AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,2,3,2,2,2,1,0,1,12,2,4,3,3,4,3,3,3,23,2,,,,,,0,1,2,2,2,1,2,1,11,2
+PM153AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM153AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM155AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM155AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM157AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM157AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM160AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM160AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM165AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM166AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM166AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM167AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM167AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM168AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM172AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM172AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM173AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM173AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM175AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM175AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM177AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM177AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM180AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM180AUD,baseline_arm_3,,10,1,2,"Scored moderate for suicidality score. The participant does not have a plan for suicide and has never attempted suicide, but has had thoughts of self-harm. Called Dr. Langenecker during the phone call to discuss MINI interview. This interviewer followed up with protective factors. The participant said that suicidal thoughts have improved in the last weeks while abstaining from alcohol.","Talk to partner, or drink. Listening to music, calming self for good headspace, or playing football. Discussed safety plan if coping mechanisms did not work. He stated that coping mechanisms always work for him. Informed him that mental resources will also be sent to him. ",,,,,,,,,,,,,3,3,3,3,3,3,3,3,21,2,3,3,3,4,3,4,4,24,2,,,,,,3,3,3,3,3,3,3,3,24,2
+PM181AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM182AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM182AUD,baseline_arm_3,,45,1,3,"Pt reported 2 times in the past month of having suicidal ideation with a plan and means. He took active steps towards his plan. Both times, he obtained hydrochloric acid and sat with it in front of him contemplating swallowing it. Pt reported a lot of stressors at work and in relationships in the past few months. He reported he has kept the hydrochloric acid and would use that if he were to carry out suicide.  He reported self-injury of taking extra trazadone a few evenings in the past month to ""knock (himself) out"" and punching the wall once. He reported a past suicide attempt of trying to hang himself from the ceiling a few years ago. His triggers are work, relationships, and financial stress. Pt reported he does not currently have any suicide intent. He sees a therapist and a psychiatrist regularly. He reported they are not aware of his suicidal ideation. This interviewer used MI to increase motivation to share these suicidal thoughts and desires with his therapist and psychiatrist as well as get rid of the hydrochloric acid in his home. The pt agreed to pursue both. This interviewer emailed resources to him which he was grateful for and reported he would utilize if intent returned. The PI on this study was called during the visit and he guided the steps taken of sending resources and discussing participant going to his therapist and psychiatrist.  Participant demonstrated yes response bias throughout this visit and poor language comprehension. "," He has a job, has hope that he will get better and have a better life, he has goals, he has coworkers that he sees, he has and regularly sees a therapist and psychiatrist, and he reported being able to control his thoughts and not act on them. ",,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM184AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM188AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM188AUD,baseline_arm_3,,1,1,1,"Pt takes extra migraine medication.",,,,,,,,,,,,,,3,3,3,2,3,2,3,2,19,2,0,1,2,3,4,4,4,18,2,,,,,,2,3,1,3,2,3,2,2,18,2
+PM192AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM192AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM193AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM196AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM197AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM197AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM201AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM201AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM203AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM203AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM205AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM205AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,0,0,1,1,0,0,0,3,2,4,4,4,4,3,4,4,27,2,,,,,,0,0,3,1,0,0,0,0,4,2
+PM208AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM208AUD,baseline_arm_3,,0,0,,,,,,,,,,,,,,,,1,1,1,0,1,0,1,1,5,2,3,3,2,3,3,1,1,16,2,,,,,,1,0,2,1,0,0,2,0,6,2
+PM210AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM210AUD,baseline_arm_3,,1,1,1,"""I prefer to take my feelings out on people, rather than suicide.""  ""I don't have those feelings--I don't need anyone in my life.""",,,,,,,,,,,,,,2,1,1,1,1,3,1,3,10,2,4,4,4,4,2,4,4,26,2,,,,,,3,3,3,3,3,1,3,1,20,2
+PM217AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM217AUD,baseline_arm_3,,4,1,1,"Pt denies any other protective factors.  Pt denied having family, pets, religion, volunteer commitments etc...    Will send list of mental health resources","business plans/work goals  bought a house",,,,,,,,,,,,,1,1,1,2,0,0,0,0,5,2,2,2,1,4,2,2,3,16,2,,,,,,0,0,1,2,2,1,1,1,8,2
+PM221AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM221AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM225AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM225AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM226AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM226AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM227AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM227AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM228AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM228AUD,baseline_arm_3,,0,0,0,"Pt's eyes kept darting to the side.  Confirmed people in apt could not hear questions.  Unsure if pt answered honestly with other people around.   Pt made frequent 'shooing' motions with his hands to ask people to leave the room, but did not close the door.",,,,,,,,,,,,,,3,1,1,2,1,1,0,1,9,2,3,4,3,3,2,2,3,20,2,,,,,,2,1,2,2,1,1,1,1,11,2
+PM233AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM233AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM238AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM238AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM239AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM239AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,2,2,2,3,1,2,1,13,2,,,,,,0,0,0,0,0,0,0,0,0,2
+PM240AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM240AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM242AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM242AUD,baseline_arm_3,,1,1,1,,,,,,,,,,,,,,,2,2,2,1,1,2,1,1,11,2,3,3,3,3,3,3,3,21,2,,,,,,2,3,2,2,2,2,2,2,17,2
+PM243AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM243AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,1,0,0,0,1,1,2,3,4,2,4,3,4,3,23,2,,,,,,1,0,3,2,0,0,0,0,6,2
+PM244AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM244AUD,baseline_arm_3,,42,1,3,"Suicidality score and severity: 24, severe     Pt reported passive SI twice in the past month. He reported if he were to commit suicide he would use poison, medication, or drugs as a means. He does not have any of these in his possession now. He reported one suicide attempt that he described as a passive thought and fleeting action. This attempt consisted of taking drugs three weeks ago that he got from a friend and wanted to overdoes but a friend intervened and talked him out of it. He does not know what drug it was.  This is the one suicide attempt he has had in his life.      Protective factors: A friend who he talks to that talks him out of bad thoughts and gives him reasons to not end his life. He imagines a light at the end of the tunnel that he wants to see. He saw a therapist once for a month. He said it was helpful. He saw them in March. He said it was helpful and initially endorsed going back to see them but at the end of the visit reported he is doing much better since reducing drinking and plans to do things on his own to get better.      He does not currently have any suicidal thoughts, ideation, or a plan. He reported getting rid of any means in his home.     He reported feeling better now that he has stopped drinking and sees himself on a positive path.     This RA called the PI on call. No further action was deemed necessary. The RA used motivational interviewing to utilize social and psychological support. Pt was directed to national psychological resources.     This summary was emailed to the PI, recorded under the MINI, and put in a note-to-file in the patient's chart. A copy of the MINI was put in the patient's folder and sent to the PI. ","Protective factors: A friend who he talks to that talks him out of bad thoughts and gives him reasons to not end his life. He imagines a light at the end of the tunnel that he wants to see. He saw a therapist once for a month. He said it was helpful and initially endorsed going back to see them but at the end of the visit reported he is doing much better since reducing drinking and plans to do things on his own to get better.",,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2,4,4,4,4,4,4,4,28,2,,,,,,0,0,3,3,1,0,0,0,7,2
+PM245AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM245AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM247AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM247AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM248AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM248AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM253AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM253AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM257AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM257AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM259AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM261AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM261AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM262AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM262AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,1,1,1,1,1,2,1,1,8,2,2,2,2,2,1,2,1,12,2,,,,,,1,2,1,1,1,2,1,2,11,2
+PM264AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM264AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM266AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM266AUD,baseline_arm_3,,0,0,0,,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,1,2,3,3,3,3,3,3,3,21,2,,,,,,0,0,2,2,1,0,0,0,5,2
+PM273AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM273AUD,baseline_arm_3,,12,1,2,"Summary:  Participant reported the first time he had thoughts of hurting himself was a few years ago. He lost someone very close to him to cancer. He reported 3 suicide attempts through cutting his wrists in January 2021, January 2022, and August 2022. He reported feeling like he couldn't get ""out of his troubles"". He reported troubles related to career, family, relationships, and life.  He reported thoughts in the past to be very severe. He initially reported severe suicidal thoughts in the past month with intent and then later in the assessment reported he has not had them and has not felt motivated or inspired to act on them for the past six months (Report of thoughts and severity were inconsistent throughout interview. He originally reported 20 severe thoughts of suicide in the past month but, when asked later about the inconsistency, insisted that that was incorrect and RA had heard him wrong).  When RA inquired about his getting help, he reported he went to the hospital multiple times in the past month and is getting ""all the help he needs"" through therapists and psychiatrists. He reported feeling much better and going to the hospital has decreased his suicidal thoughts and he reported he has not had them within the past few months (after previously saying they were severe in the past month).     Safety plan:  RA provided participant with resources and participant and RA made a safety plan. Participant reported any time he has thoughts of hurting himself he will reach out to his family or therapist. RA and participant discussed coping skills. Participant reported playing video games, hanging with friends, and calling his family is helpful when he is feeling down.     Protective factors:  He reported having a very lovely family that cares a lot about him and vice versa. He reported he would not leave them. They tell him there is more to life and give him hope. They prevent him from acting on his suicidal thoughts. He reported he resorts to friends, video games, and YouTube when he is feeling low.    This MINI was sent to the PI and a copy was put into Box.","He reported having a very lovely family that cares a lot about them. He reported he would not leave them. They tell him there is more to life and give him hope. They prevent him from acting on his suicidal thoughts. He reported he resorts to friends, video games, and YouTube when he is feeling low.",,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM274AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM274AUD,baseline_arm_3,,27,1,3,"Pt stated that he had negative thoughts while harming himself by hitting a wall in his house.  B11.  ""I was feeling down, and low on cash.  I lost a lot on crypto""  Pt said he bit his arm hard enough to leave a scar  Pt said he 'frequently'  thought about hanging himself. Pt later said twice.  Pt said he could not find something to hang himself with over Christmas.  Pt description of feeling down and worthless matched B2, but pt denied feeling 'hopeless.'    Asked pt what has worked in the past for managing negative thoughts.  Likes to play games and listen to music on his phone.  Asked pt if they could 'hang out' with someone so they were not alone.  Pt said his closest friend 'Richard' was 20 miles away.    Dr. Langenecker joined the Zoom call.  Discussed stressors, intent, and safety planning.  Copy of MINI to be stored in pt file.  Email to be sent to PI.  Resources emailed to pt.  CS","family responsibilities, he is the oldest (also a sick family member)  'looking up to God' goes to church  friends  ",,,,,,,,,,,,,1,1,1,0,0,0,1,1,4,2,2,2,2,3,1,3,3,16,2,,,,,,1,1,1,2,1,1,0,0,7,2
+PM275AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM275AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM277AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM277AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM278AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM278AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM280AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM280AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM283AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM283AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM284AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM284AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM288AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM288AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM292AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM292AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM298AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM298AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM299AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM299AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM300AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM300AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM305AUD,participant_status_arm_3,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM305AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM307AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM307AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+PM308AUD,participant_status_arm_3,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+PM308AUD,baseline_arm_3,,0,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+test,week_2_arm_3,,,,,,,2,2,1,0,,,,0,0,1,"Low Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+test,week_4_arm_3,,,,,,,1,2,0,0,,,,0,0,0,"No Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+test,week_6_arm_3,,,,,,,2,2,,,,,,,,,,0,,,,,,,,,,0,,,,,,,,,0,,,,,,,,,,,,,,,0
+TEST_001,participant_status_arm_3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,
+TEST_001,week_2_arm_3,,,,,,,,0,,,,,,,,,"No Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+TEST_001,week_4_arm_3,,,,,,,3,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,2
+TEST_001,week_8_arm_3,,,,,,,3,2,,,,,,,,,"No Risk",0,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,3,3,3,3,3,24,2
+TEST_001,week_12_arm_3,,,,,,,3,2,1,1,1,1,1,1,1,7,"High Risk",2,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,3,3,3,3,3,24,2
