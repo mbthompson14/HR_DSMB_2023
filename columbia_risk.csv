@@ -4,7 +4,6 @@ F322AUD,week_12,active,1.0,yes,no,NA,NA,NA,no,0.0,2.0,Low Risk,Low
 M255AUD,week_4,complete,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
 M255AUD,week_6,complete,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
 M269AUD,week_2,complete,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
-M287AUD,week_4,withdrawn/excluded,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
 M294AUD,week_2,complete,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
 M294AUD,week_4,complete,2.0,no,no,NA,NA,NA,yes,1.0,2.0,High Risk,High
 M297AUD,week_2,withdrawn/excluded,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
@@ -19,7 +18,6 @@ F317AUD,week_6,active,3.0,yes,yes,yes,no,no,no,1.0,2.0,Moderate Risk,Moderate
 F317AUD,week_8,active,2.0,yes,yes,no,no,no,no,1.0,2.0,Low Risk,Low
 F317AUD,week_10,active,2.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
 F317AUD,week_12,active,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
-M250AUD,week_8,withdrawn/excluded,2.0,no,no,NA,NA,NA,no,1.0,2.0,No Risk,None
 M252AUD,week_10,complete,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
 M290AUD,week_2,withdrawn/excluded,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
 M318AUD,week_8,active,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
