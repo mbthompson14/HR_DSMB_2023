@@ -1,6 +1,6 @@
 record_id,redcap_event_name,partstatus,phq9_q9_only,wished_dead,actual_thoughts,thinking_about_plan,thoughts_plus_intention,details_and_intent_of_plan,prior_self_harm_lifetime,csrs_q7,columbia_complete,columbia_risk_score,columbia_risk
-F322AUD,week_6,1.0,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
-F322AUD,week_12,1.0,1.0,yes,no,NA,NA,NA,no,0.0,2.0,Low Risk,Low
+F322AUD,week_6,2.0,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
+F322AUD,week_12,2.0,1.0,yes,no,NA,NA,NA,no,0.0,2.0,Low Risk,Low
 M255AUD,week_4,2.0,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
 M255AUD,week_6,2.0,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
 M269AUD,week_2,2.0,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
@@ -11,13 +11,16 @@ M297AUD,week_4,99.0,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
 F223AUD,week_8,2.0,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
 F223AUD,week_10,2.0,1.0,yes,no,NA,NA,NA,no,0.0,2.0,Low Risk,Low
 F258AUD,week_10,99.0,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
-F316AUD,week_4,1.0,1.0,yes,no,NA,NA,NA,no,0.0,2.0,Low Risk,Low
-F317AUD,week_2,1.0,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
-F317AUD,week_4,1.0,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
-F317AUD,week_6,1.0,3.0,yes,yes,yes,no,no,no,1.0,2.0,Moderate Risk,Moderate
-F317AUD,week_8,1.0,2.0,yes,yes,no,no,no,no,1.0,2.0,Low Risk,Low
-F317AUD,week_10,1.0,2.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
-F317AUD,week_12,1.0,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
+F316AUD,week_4,2.0,1.0,yes,no,NA,NA,NA,no,0.0,2.0,Low Risk,Low
+F317AUD,week_2,2.0,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
+F317AUD,week_4,2.0,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
+F317AUD,week_6,2.0,3.0,yes,yes,yes,no,no,no,1.0,2.0,Moderate Risk,Moderate
+F317AUD,week_8,2.0,2.0,yes,yes,no,no,no,no,1.0,2.0,Low Risk,Low
+F317AUD,week_10,2.0,2.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
+F317AUD,week_12,2.0,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
+F317AUD,week_14,2.0,1.0,yes,no,NA,NA,NA,no,1.0,2.0,Low Risk,Low
 M252AUD,week_10,2.0,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
 M290AUD,week_2,99.0,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
-M318AUD,week_8,1.0,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
+M315AUD,week_14,2.0,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
+M318AUD,week_8,2.0,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
+M321AUD,week_12,2.0,1.0,no,no,NA,NA,NA,no,0.0,2.0,No Risk,None
